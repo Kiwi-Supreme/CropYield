@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Crop Yield Outlook</title>
+<style>
+  :root {
+    --bg: #f4f7f2; --card: #ffffff; --ink: #1d2b1f; --muted: #5d6b5f; --line: #dbe3d8;
+    --brand: #2f6b3a; --good: #3f9b4f; --avg: #e0a93b; --poor: #cf4f45;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) { --bg: #121a14; --card: #1b261d; --ink: #e8f0e9; --muted: #9bb0a0; --line: #2b3a2e; --brand: #6fbf7d; }
+    :root:not([data-theme="light"]) button { color: #0f1a12; }
+    :root:not([data-theme="light"]) .step { color: #0f1a12; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.5 system-ui, "Segoe UI", sans-serif; }
+  main { max-width: 760px; margin: 0 auto; padding: 24px 16px 48px; }
+  h1 { font-size: 26px; margin: 0 0 4px; }
+  .sub { color: var(--muted); margin: 0 0 20px; }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 18px; margin-bottom: 16px; }
+  .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+  @media (max-width: 560px) { .grid { grid-template-columns: 1fr; } }
+  label { display: block; font-size: 13px; font-weight: 600; color: var(--muted); margin-bottom: 4px; }
+  select, input[type=range] { width: 100%; }
+  select { padding: 9px 10px; border-radius: 8px; border: 1px solid var(--line); background: var(--card); color: var(--ink); font: inherit; }
+  .step { display: inline-block; background: var(--brand); color: #fff; border-radius: 50%; width: 20px; height: 20px; text-align: center; font-size: 12px; line-height: 20px; margin-right: 6px; }
+  details { margin-top: 14px; }
+  summary { cursor: pointer; color: var(--brand); font-weight: 600; }
+  .opt { margin-top: 12px; }
+  button { margin-top: 18px; width: 100%; padding: 12px; font: inherit; font-weight: 700; color: #fff; background: var(--brand); border: 0; border-radius: 10px; cursor: pointer; }
+  button:disabled { opacity: .6; cursor: wait; }
+  .verdict { font-size: 22px; font-weight: 700; margin: 0 0 12px; }
+  .bar-row { display: grid; grid-template-columns: 70px 1fr 48px; gap: 10px; align-items: center; margin: 7px 0; }
+  .track { background: var(--line); border-radius: 6px; height: 18px; overflow: hidden; }
+  .fill { height: 100%; border-radius: 6px; transition: width .5s; }
+  .pct { text-align: right; font-variant-numeric: tabular-nums; font-weight: 600; }
+  .facts { color: var(--muted); font-size: 14px; margin: 14px 0 0; }
+  .facts b { color: var(--ink); }
+  .err { color: var(--poor); font-weight: 600; }
+  .note { font-size: 12px; color: var(--muted); }
+</style>
+</head>
+<body>
+<main>
+  <h1>🌾 Crop Yield Outlook</h1>
+  <p class="sub">Choose a crop, a place and a season. The model estimates how likely a good, average or poor yield is.</p>
+
+  <form class="card" id="form">
+    <div class="grid">
+      <div><label for="crop"><span class="step">1</span>Crop</label><select id="crop"></select></div>
+      <div><label for="season"><span class="step">3</span>Season</label><select id="season"></select></div>
+      <div><label for="state"><span class="step">2</span>State</label><select id="state"></select></div>
+      <div><label for="district">District</label><select id="district"></select></div>
+    </div>
+
+    <details>
+      <summary>Season conditions (optional)</summary>
+      <div class="opt">
+        <label for="scenario">What should the model assume about this season?</label>
+        <select id="scenario">
+          <option value="normal">Typical season</option>
+          <option value="dry">Drier than usual</option>
+          <option value="wet">Wetter than usual</option>
+          <option value="year">Replay a past year…</option>
+        </select>
+      </div>
+      <div class="opt" id="yearBox" hidden>
+        <label for="year">Year: <b id="yearVal">2015</b></label>
+        <input type="range" id="year" min="2001" max="2017" value="2015">
+      </div>
+    </details>
+
+    <details id="diseaseBox" hidden>
+      <summary>Leaf disease seen in the field (optional, maize)</summary>
+      <div class="opt">
+        <label for="disease">Disease</label>
+        <select id="disease"><option value="">None observed</option></select>
+      </div>
+      <div class="opt">
+        <label for="share">Share of scouted leaves affected: <b id="shareVal">30</b>%</label>
+        <input type="range" id="share" min="0" max="100" value="30">
+        <div class="note">Loss per disease is an assumed demo value, not fitted from data.</div>
+      </div>
+    </details>
+
+    <button type="submit" id="go" disabled>Predict yield outlook</button>
+  </form>
+
+  <section class="card" id="result" hidden aria-live="polite"></section>
+  <p class="note">Research prototype built on 2001–2017 district-level data. Not agronomic advice.</p>
+</main>
+
+<script>
+const $ = id => document.getElementById(id);
+let OPT;
+
+function fill(sel, items, labelOf) {
+  sel.innerHTML = items.map(v => `<option value="${v}">${labelOf ? labelOf(v) : v}</option>`).join("");
+}
+function syncSeason() { $("season").value = OPT.crop_season[$("crop").value]; $("diseaseBox").hidden = $("crop").value !== "Maize"; }
+function syncDistricts() { fill($("district"), OPT.locations[$("state").value]); }
+
+async function init() {
+  OPT = await (await fetch("/api/options")).json();
+  fill($("crop"), OPT.crops);
+  fill($("season"), OPT.seasons);
+  fill($("state"), Object.keys(OPT.locations));
+  OPT.diseases.forEach(d => $("disease").insertAdjacentHTML("beforeend", `<option>${d}</option>`));
+  $("crop").value = "Maize"; syncSeason(); syncDistricts(); $("go").disabled = false;
+  // shareable link, e.g. /?crop=Soybean&state=Madhya%20Pradesh&district=Dhar&scenario=dry
+  const q = new URLSearchParams(location.search);
+  if (q.get("theme") === "light") document.documentElement.dataset.theme = "light";
+  if (q.get("crop")) {
+    $("crop").value = q.get("crop"); syncSeason();
+    if (q.get("state")) { $("state").value = q.get("state"); syncDistricts(); }
+    if (q.get("district")) $("district").value = q.get("district");
+    if (q.get("scenario")) { $("scenario").value = q.get("scenario"); $("scenario").onchange(); document.querySelector("details").open = true; }
+    $("form").requestSubmit();
+  }
+}
+$("crop").onchange = syncSeason;
+$("state").onchange = syncDistricts;
+$("scenario").onchange = () => $("yearBox").hidden = $("scenario").value !== "year";
+$("year").oninput = () => $("yearVal").textContent = $("year").value;
+$("share").oninput = () => $("shareVal").textContent = $("share").value;
+
+function bar(name, p, color) {
+  return `<div class="bar-row"><span>${name}</span><div class="track"><div class="fill" style="width:${(p*100).toFixed(0)}%;background:var(${color})"></div></div><span class="pct">${(p*100).toFixed(0)}%</span></div>`;
+}
+const n0 = x => Math.round(x).toLocaleString();
+
+$("form").onsubmit = async e => {
+  e.preventDefault();
+  const sc = $("scenario").value;
+  const body = { crop: $("crop").value, state: $("state").value, district: $("district").value, season: $("season").value,
+                 scenario: sc === "year" ? "normal" : sc, year: sc === "year" ? $("year").value : null,
+                 disease: $("diseaseBox").hidden ? "" : $("disease").value, share: $("share").value };
+  const box = $("result"); $("go").disabled = true; box.hidden = false;
+  try {
+    const res = await fetch("/api/predict", { method: "POST", headers: {"Content-Type": "application/json"}, body: JSON.stringify(body) });
+    const r = await res.json();
+    if (!res.ok) { box.innerHTML = `<p class="err">${r.error}</p>`; return; }
+    box.innerHTML = `
+      <p class="verdict">Most likely: ${r.verdict} yield</p>
+      ${bar("Good", r.p_good, "--good")}${bar("Average", r.p_average, "--avg")}${bar("Poor", r.p_poor, "--poor")}
+      <p class="facts"><b>Expected yield:</b> about ${n0(r.expected_yield)} kg/ha (80% range ${n0(r.yield_low)}–${n0(r.yield_high)}).
+        “Good” means above roughly ${n0(r.good_threshold)} kg/ha for ${r.crop.toLowerCase()}.</p>
+      <p class="facts"><b>Based on:</b> ${r.conditions}.</p>
+      ${r.drivers.length ? `<p class="facts"><b>Why:</b> ${r.drivers.join("; ")}.</p>` : ""}
+      ${r.assumed_loss > 0 ? `<p class="facts"><b>Disease adjustment:</b> assumed yield loss ${(r.assumed_loss*100).toFixed(0)}% is included above.</p>` : ""}`;
+  } catch (err) {
+    box.innerHTML = `<p class="err">Could not reach the server. Is <code>python server.py</code> running?</p>`;
+  } finally { $("go").disabled = false; }
+};
+init();
+</script>
+</body>
+</html>

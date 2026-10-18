@@ -1,0 +1,6 @@
+# PlantVillage images (public dataset, 60 MB): see README for how to download
+data/plantvillage_corn/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+presentation/qa/

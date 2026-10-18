@@ -1,0 +1,16 @@
+numpy
+pandas
+scikit-learn
+xgboost
+scipy
+joblib
+matplotlib
+seaborn
+requests
+tensorflow
+pillow
+streamlit
+jupyter
+nbformat
+nbconvert
+python-pptx

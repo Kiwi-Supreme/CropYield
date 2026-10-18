@@ -1,0 +1,772 @@
+path,label,pred,conf
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\55558508-0071-4e16-89ca-5e42716988e9___R.S_HL 8170 copy 2.jpg,Healthy,Healthy,0.9999889
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\253f721d-33bf-4c54-a267-277965e95257___RS_NLB 3633.JPG,Northern leaf blight,Northern leaf blight,0.51989436
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2368.JPG,Common rust,Common rust,0.9999831
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\a21bb11c-f4e4-4a84-bd86-6e089bb40ad3___RS_NLB 3870.JPG,Northern leaf blight,Northern leaf blight,0.9994122
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1676.JPG,Common rust,Common rust,0.99998677
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\0ad77173-546c-4957-be8e-344a8cd492c3___RS_NLB 4118.JPG,Northern leaf blight,Northern leaf blight,0.87227577
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1916.JPG,Common rust,Common rust,0.9999424
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\cbea79a3-7a68-4d16-b509-c84f333f9a38___R.S_HL 8137 copy 2.jpg,Healthy,Healthy,0.99969006
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\11dcda6d-bfdf-457d-8fad-ad169be1501e___R.S_HL 8199 copy.jpg,Healthy,Healthy,0.99966586
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\a9eb57c6-db27-467a-aff2-253c58e26722___RS_GLSp 4446 copy.jpg,Gray leaf spot,Gray leaf spot,0.9276863
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\a0940ca1-3040-4432-99a6-83979e94cdf5___R.S_HL 8035 copy 2.jpg,Healthy,Healthy,0.99986446
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\ee4269d5-9492-4863-a283-17396a086e0d___RS_NLB 3672 copy.jpg,Northern leaf blight,Northern leaf blight,0.9794571
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\290bb59a-1405-44b8-af6e-8b1384b76e00___R.S_HL 0614.JPG,Healthy,Healthy,0.99991405
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2214.JPG,Common rust,Common rust,0.9999722
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\09160fba-83ce-4cec-887f-dce0abb79d08___RS_NLB 0832.JPG,Northern leaf blight,Northern leaf blight,0.8699545
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2078.JPG,Common rust,Common rust,0.99997723
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\c9a59c8c-b828-4a5c-a3d3-ecf4833a02d2___R.S_HL 5494 copy.jpg,Healthy,Healthy,0.99635845
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\60d41965-10bc-4799-815e-5b1f099fae4b___R.S_HL 8003 copy.jpg,Healthy,Healthy,0.99977654
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\201141a7-69a3-40b2-90fd-da538cf10ffa___R.S_HL 7908 copy.jpg,Healthy,Healthy,0.999824
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2606.JPG,Common rust,Common rust,0.99994826
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\dcac2db4-95f4-4209-97fc-bccef6b0acca___R.S_HL 5537 copy 2.jpg,Healthy,Healthy,0.74009997
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\623dcf1e-68f1-4de1-a69c-c94b23ec11cb___RS_NLB 0776.JPG,Northern leaf blight,Northern leaf blight,0.826169
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\c740d42c-29fd-49cd-a941-afd8429b1f28___RS_GLSp 4688.JPG,Gray leaf spot,Gray leaf spot,0.97793615
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\32e31361-bb57-4974-bc43-4b8e74d61653___RS_GLSp 4433 copy.jpg,Gray leaf spot,Gray leaf spot,0.9976446
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1829.JPG,Common rust,Common rust,0.9995492
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2740.JPG,Common rust,Common rust,0.9999901
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1761.JPG,Common rust,Common rust,0.9993574
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\1ca58163-0570-48af-bdef-2fd3a751dc0a___RS_NLB 3927.JPG,Northern leaf blight,Northern leaf blight,0.9973628
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\7de08764-f878-43c3-9b8e-99a57612174e___R.S_HL 0625 copy 2.jpg,Healthy,Healthy,0.99999
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1662.JPG,Common rust,Common rust,0.99267274
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\53c211a4-96bc-4f7b-baa2-25eb66878c3a___R.S_HL 5514 copy.jpg,Healthy,Healthy,0.99982387
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\64a4c503-5296-4349-990c-e27650afa296___RS_NLB 4216.JPG,Northern leaf blight,Northern leaf blight,0.985429
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\97bb609b-99f9-4dd8-9468-cb24cb17bf7c___RS_NLB 3497.JPG,Northern leaf blight,Northern leaf blight,0.9120025
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\9f9bba25-9ffb-472d-8fb7-b887ba59de51___RS_NLB 3980.JPG,Northern leaf blight,Northern leaf blight,0.6026859
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1687.JPG,Common rust,Common rust,0.99880564
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\0cff7eca-bb9e-4cc3-ad7a-23694bdba903___R.S_HL 8289 copy 2.jpg,Healthy,Healthy,0.99989295
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1836.JPG,Common rust,Common rust,0.9998728
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\4427063f-9e4a-4aaf-959a-c9afc210f7fa___RS_GLSp 4307.JPG,Gray leaf spot,Gray leaf spot,0.8733489
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\79aa374c-1687-42d4-bf48-84e8b1beb762___RS_GLSp 4408.JPG,Gray leaf spot,Gray leaf spot,0.8559507
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\50fe7549-e9f5-4104-abdc-b78630c0483e___R.S_HL 8185 copy.jpg,Healthy,Healthy,0.9999958
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\457d6124-02df-4915-b8b1-21e6d987019e___R.S_HL 7949 copy 2.jpg,Healthy,Healthy,0.99996305
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\11da9571-9614-487a-8150-7c998f2b2ae8___RS_NLB 4102.JPG,Northern leaf blight,Northern leaf blight,0.981645
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\52acf240-2625-4b4c-8484-6c93e998b115___RS_GLSp 7337.JPG,Gray leaf spot,Northern leaf blight,0.6419596
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\d413b5ce-75a2-4e7a-977a-72318cdbf476___RS_NLB 3668.JPG,Northern leaf blight,Northern leaf blight,0.9994604
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2235.JPG,Common rust,Common rust,0.99998355
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\0fcc66f2-db0d-4b65-95df-a2e9c6d8f395___RS_NLB 4049.JPG,Northern leaf blight,Northern leaf blight,0.9829475
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\16d89a3d-6b80-47f6-b701-7dac2864371f___R.S_HL 8087 copy.jpg,Healthy,Healthy,0.99960834
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2533.JPG,Common rust,Common rust,0.99976283
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\6254c5e3-95a7-41b4-a126-83c92d1c5f37___RS_GLSp 7327.JPG,Gray leaf spot,Gray leaf spot,0.98229134
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2343.JPG,Common rust,Common rust,0.9998388
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\b7e76db7-843c-4d65-be3e-d1554987b790___RS_GLSp 4418 copy.jpg,Gray leaf spot,Northern leaf blight,0.6742413
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\e617de29-f6fb-4c0b-9995-49127fb4573c___RS_NLB 3601.JPG,Northern leaf blight,Northern leaf blight,0.5601171
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\0da62220-7007-447a-8260-816c2b3afe7d___RS_NLB 3982.JPG,Northern leaf blight,Gray leaf spot,0.5502484
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1686.JPG,Common rust,Common rust,0.99973875
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\689e24f2-7175-49a7-9721-7461e1b977d9___R.S_HL 0649 copy 3.jpg,Healthy,Healthy,0.9888965
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\600f5c3a-2156-4485-b74a-c14a16534706___R.S_HL 7958 copy.jpg,Healthy,Healthy,0.9999825
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2320.JPG,Common rust,Common rust,0.9928906
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2025.JPG,Common rust,Common rust,0.9965043
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2622.JPG,Common rust,Common rust,0.99981993
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\40e5e314-1484-40c0-8297-3efde6fb5e89___R.S_HL 0613 copy.jpg,Healthy,Healthy,0.9980463
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\abf68bb5-f883-4423-8e98-953f5f45a1ed___RS_GLSp 4463 copy.jpg,Gray leaf spot,Gray leaf spot,0.7318727
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\8da48548-461c-4574-9435-74310d8207a3___RS_GLSp 4387.JPG,Gray leaf spot,Gray leaf spot,0.68814826
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1954.JPG,Common rust,Common rust,0.9999274
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\c5776fbf-edd4-4dcb-889f-4e8971c73dd9___RS_GLSp 9330.JPG,Gray leaf spot,Gray leaf spot,0.93062294
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\8152eff1-a36b-4377-96f8-424ff6a97f35___RS_NLB 3727.JPG,Northern leaf blight,Northern leaf blight,0.849036
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\c487cfa8-40c6-4a10-80af-21658a0c8c64___RS_NLB 3538.JPG,Northern leaf blight,Northern leaf blight,0.9824942
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\a70422d5-9fb2-4d2f-9780-e341e8ea4c82___RS_GLSp 4380 copy.jpg,Gray leaf spot,Gray leaf spot,0.98246205
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1750.JPG,Common rust,Common rust,0.9993304
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\f13d43cb-e365-4df6-aac8-746e4d6d7dab___RS_NLB 3528.JPG,Northern leaf blight,Northern leaf blight,0.99984014
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2529.JPG,Common rust,Common rust,0.99960846
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\642c6d64-e53b-4d7b-951a-d00aaf805c32___R.S_HL 8213 copy.jpg,Healthy,Healthy,0.9701091
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1751.JPG,Common rust,Common rust,0.9999957
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\bda08b6c-bbd4-446c-900e-ba832f139434___R.S_HL 0613.JPG,Healthy,Healthy,0.9990614
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1714.JPG,Common rust,Common rust,0.99999106
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\6e32f66d-c54c-4df4-9894-e7aa3ff748d9___R.S_HL 0620 copy 2.jpg,Healthy,Healthy,0.99900144
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\461baed2-cdf3-4ce0-9812-65f34484bb35___R.S_HL 8031 copy  3.jpg,Healthy,Healthy,0.9998617
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\c68b1b16-887b-4647-bb13-70474fd7e5ae___R.S_HL 0633 copy 3.jpg,Healthy,Healthy,0.9851474
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\038464d1-47a9-4169-afb1-72c87e568a95___RS_GLSp 4480.JPG,Gray leaf spot,Gray leaf spot,0.9495712
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\fb9ebab9-26e6-459c-8b74-8fd04fbf0f89___R.S_HL 7960 copy.jpg,Healthy,Healthy,0.99995387
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\39204770-c7aa-4ca0-bd41-2acd39cb699b___RS_NLB 3712.JPG,Northern leaf blight,Northern leaf blight,0.9979315
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2709.JPG,Common rust,Common rust,0.9999409
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1694.JPG,Common rust,Common rust,0.9994455
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\74fd304e-662f-4b5c-a6d5-22b293c99a4d___R.S_HL 5492 copy 2.jpg,Healthy,Healthy,0.99938333
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1770.JPG,Common rust,Common rust,0.99722195
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\8e1480d8-2b13-4b0e-83a0-6f8d8e37d888___R.S_HL 7911 copy 3.jpg,Healthy,Healthy,0.9988379
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\ce1bbcb3-e17b-4b81-bf54-9c5d14d3faee___RS_NLB 4248.JPG,Northern leaf blight,Northern leaf blight,0.87977326
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\937045bf-b8e0-4bc1-b630-34b683a23cda___R.S_HL 5554 copy.jpg,Healthy,Healthy,0.9994791
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\87705bdf-957a-4abb-b8b6-159d64de4e02___RS_NLB 3985.JPG,Northern leaf blight,Gray leaf spot,0.9084539
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\d85d07c3-0a4e-4f50-836e-8c884cd58c75___R.S_HL 8064 copy.jpg,Healthy,Healthy,0.9994363
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\e5a2b441-8173-4c41-a56f-d359b1196719___R.S_HL 8119 copy 2.jpg,Healthy,Healthy,0.99994934
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2054.JPG,Common rust,Common rust,0.9992681
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1711.JPG,Common rust,Common rust,0.9977023
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\5417243a-8492-4bf5-9c54-9b930dd54bff___R.S_HL 8069 copy 2.jpg,Healthy,Healthy,0.99999166
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\86c4280e-2954-4d0c-b9d5-711cab634904___RS_NLB 3641.JPG,Northern leaf blight,Northern leaf blight,0.69801617
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1984.JPG,Common rust,Common rust,0.999998
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\14db59c3-03bf-4d81-80b0-19e778ed17e7___RS_NLB 3542.JPG,Northern leaf blight,Northern leaf blight,0.94108194
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\34ae03ee-4314-47b1-a568-f3537bc2afba___RS_NLB 3672.JPG,Northern leaf blight,Northern leaf blight,0.9440664
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\d63f0a92-e489-4acd-b5df-847a83172abc___RS_GLSp 4607.JPG,Gray leaf spot,Gray leaf spot,0.9845732
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\7b45e9ce-9199-4f4f-9831-ef52e7c61816___RS_NLB 3547 copy 2.jpg,Northern leaf blight,Northern leaf blight,0.9955664
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2701.JPG,Common rust,Common rust,0.9999901
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\bfa4998b-ab2a-439a-8e65-3501db446811___RS_NLB 3704.JPG,Northern leaf blight,Northern leaf blight,0.99185365
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1865.JPG,Common rust,Common rust,0.9960079
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\67a78d0c-6fc8-423f-a50d-ca3f3ca386bd___RS_NLB 4238.JPG,Northern leaf blight,Northern leaf blight,0.980973
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\00665f92-adb0-41eb-bba7-9eeadecfe10e___R.S_HL 8325 copy 2.jpg,Healthy,Healthy,0.99976426
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\c9df4a59-99bf-479e-a3dd-7aef4c6706a5___R.S_HL 8211 copy 2.jpg,Healthy,Healthy,0.99992776
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\aca41693-0f3c-4fae-a692-5fd2a4db2304___RS_GLSp 4389.JPG,Gray leaf spot,Gray leaf spot,0.9960834
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\74a4c1f4-26e2-4861-bcc8-16d26f215387___R.S_HL 8300 copy 2.jpg,Healthy,Healthy,0.9999846
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\af25549e-f09a-4fa5-958b-aa9c49ac6119___R.S_HL 8122 copy 2.jpg,Healthy,Healthy,0.9999262
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\cbf3bab4-8c89-4025-b844-9bd9a120bcfb___R.S_HL 8339 copy.jpg,Healthy,Healthy,0.9990476
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\7e705f3a-846b-4815-bb4a-99c7024030ab___R.S_HL 7989 copy.jpg,Healthy,Healthy,0.9998871
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\15887cb9-7dcc-4839-ac67-a87cf2cec9c6___R.S_HL 5532 copy.jpg,Healthy,Healthy,0.9979954
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\0f9d8b9a-a49d-4641-b956-dc0963d7b6da___R.S_HL 8148 copy 2.jpg,Healthy,Healthy,0.9983929
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2090.JPG,Common rust,Common rust,0.99997115
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\d048f7c9-4398-4df3-a437-6ee08b579e87___RS_NLB  4507 copy 2.jpg,Northern leaf blight,Northern leaf blight,0.9658784
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\1dbb4503-2025-4c04-98ac-eb8f49c51d12___R.S_HL 8221 copy.jpg,Healthy,Healthy,0.9999927
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\740b35ad-1f29-4a5d-b0db-f521992ce04c___RS_NLB 3917.JPG,Northern leaf blight,Northern leaf blight,0.72798806
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2378.JPG,Common rust,Common rust,0.999529
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\7d9ba686-3d31-41d2-a078-588d1bcf3aee___R.S_HL 5555 copy 2.jpg,Healthy,Healthy,0.9995295
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2136.JPG,Common rust,Common rust,0.9993036
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\7d8c90b7-a84f-4c35-a43f-7d199bbfb493___R.S_HL 0608 copy.jpg,Healthy,Healthy,0.996971
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\ed2d6237-f67a-4a5b-bd44-f122388bcd80___RS_GLSp 4620 copy.jpg,Gray leaf spot,Gray leaf spot,0.7711682
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\34e1850b-628c-46eb-b8b0-9618025b1f84___RS_NLB 3729.JPG,Northern leaf blight,Northern leaf blight,0.9953407
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\a312677c-a2d5-4aa0-bb76-0f1af43fb747___RS_GLSp 4395.JPG,Gray leaf spot,Gray leaf spot,0.78269196
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2540.JPG,Common rust,Common rust,0.9780425
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\24f6e3ed-d58d-45eb-b9a7-a7e347e237fb___RS_GLSp 4465.JPG,Gray leaf spot,Gray leaf spot,0.91443723
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\b95b7b6e-c0a8-4a3f-aec1-f235b9328078___R.S_HL 5544 copy 2.jpg,Healthy,Healthy,0.9686392
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\87f58832-076a-41b1-b8d0-181077b5f478___R.S_HL 5560 copy 2.jpg,Healthy,Healthy,0.9998431
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\045080ca-8b98-4320-adcc-e431f88c1aaa___RS_GLSp 7313.JPG,Gray leaf spot,Gray leaf spot,0.93339217
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2732.JPG,Common rust,Common rust,0.989282
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\9c392db4-4a68-4a6b-8555-a822eec85ca7___R.S_HL 8177 copy 2.jpg,Healthy,Healthy,0.99999726
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\28463ffb-8023-41c0-9084-6b5ade2d6ca3___RS_GLSp 4310.JPG,Gray leaf spot,Gray leaf spot,0.876311
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2573.JPG,Common rust,Common rust,0.99925643
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2127.JPG,Common rust,Common rust,0.99996173
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2637.JPG,Common rust,Common rust,0.9696888
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2618.JPG,Common rust,Common rust,0.999826
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\a34edad5-bf33-4d6c-bf2b-68a35c3f6987___RS_NLB 4181.JPG,Northern leaf blight,Northern leaf blight,0.9965928
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\8c22c962-864b-4d20-9b94-660407f90533___RS_NLB 3619.JPG,Northern leaf blight,Northern leaf blight,0.9873864
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\54cac376-96d8-4029-91a5-935cd1c8d24b___RS_NLB 3845.JPG,Northern leaf blight,Northern leaf blight,0.7427009
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2658.JPG,Common rust,Common rust,0.99990916
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\d1718bf2-fb43-42c8-a143-a78ea89017a7___RS_NLB 3491.JPG,Northern leaf blight,Northern leaf blight,0.9743251
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\b342337b-b5f2-4d24-9c61-dd7fa4421b5d___RS_GLSp 9315.JPG,Gray leaf spot,Northern leaf blight,0.5701957
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\d497c6d2-6bfd-4de6-be98-5d3d4ab525fd___R.S_HL 8338 copy.jpg,Healthy,Healthy,0.99851483
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\b914d1d7-db9b-4db3-9360-1ba44beef18b___R.S_HL 8176 copy 2.jpg,Healthy,Healthy,0.9997279
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1715.JPG,Common rust,Common rust,0.99988115
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\2e72b3e0-8e8e-471e-9ece-5157e2ef2f22___RS_NLB 3654.JPG,Northern leaf blight,Northern leaf blight,0.98422027
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\2515cbc5-85fa-47cd-81ce-dc2cac6819a5___R.S_HL 8297 copy.jpg,Healthy,Healthy,0.9999281
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2058.JPG,Common rust,Common rust,0.99720556
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2664.JPG,Common rust,Common rust,0.99685186
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\9d47547e-512f-49d0-9589-081a50333382___R.S_HL 7985 copy.jpg,Healthy,Healthy,0.99983954
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\73cacf2f-57c4-4947-ae9b-69a9931d068c___RS_NLB 3910.JPG,Northern leaf blight,Northern leaf blight,0.9807885
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2509.JPG,Common rust,Common rust,0.9999795
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\0a01cc10-3892-4311-9c48-0ac6ab3c7c43___RS_GLSp 9352.JPG,Gray leaf spot,Northern leaf blight,0.90423006
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1913.JPG,Common rust,Common rust,0.9987972
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\f8f2663a-df9b-4c0b-bddc-0f0c6fc5c7cf___R.S_HL 8126 copy.jpg,Healthy,Healthy,0.999984
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1843.JPG,Common rust,Common rust,0.99984384
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\a25e0982-60a0-4282-bedf-0512171e2fde___RS_NLB 4061 copy.jpg,Northern leaf blight,Northern leaf blight,0.9827169
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\053eadf4-34ce-4bdb-8dd8-b75f5d572583___RS_NLB 3788.JPG,Northern leaf blight,Northern leaf blight,0.9402391
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\876c414d-eb4b-4929-819f-851476525934___R.S_HL 7930 copy.jpg,Healthy,Healthy,0.9834561
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2142.JPG,Common rust,Common rust,0.99988854
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\47a01d34-e691-4337-8d17-cbe8ee34b843___RS_NLB 4164.JPG,Northern leaf blight,Northern leaf blight,0.9858795
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\5fc48a9b-7aee-4262-adf3-1102e354dd61___RS_NLB 3690.JPG,Northern leaf blight,Common rust,0.52842057
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\e6a2fef5-35f9-4583-be40-ea0a89a43bad___R.S_HL 8128 copy 2.jpg,Healthy,Healthy,0.9996797
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2297.JPG,Common rust,Common rust,0.99986017
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2600.JPG,Common rust,Common rust,0.99686533
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\c5a2c1de-cd48-417c-ae48-0394fe2f39ae___R.S_HL 7883 copy 2.jpg,Healthy,Healthy,0.99719465
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\f8c850bb-1c2e-4340-8f00-bda707afcfa6___RS_GLSp 4451.JPG,Gray leaf spot,Gray leaf spot,0.9596648
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1975.JPG,Common rust,Common rust,0.99973506
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\fcfa46d6-10f0-43ba-a5e6-de37e62ccfb0___R.S_HL 5557 copy 2.jpg,Healthy,Healthy,0.9999523
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2674.JPG,Common rust,Common rust,0.9996705
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\b0222ee7-9fad-4204-8738-15eb8e879001___R.S_HL 8062 copy 2.jpg,Healthy,Healthy,0.9989084
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\9691fbda-c8f7-4e2c-b1e8-a95038599794___RS_NLB 3900.JPG,Northern leaf blight,Northern leaf blight,0.6464151
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\b6502343-1e16-4343-81cc-ec9fc1a212d1___R.S_HL 8238 copy.jpg,Healthy,Healthy,0.9999176
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\184d5681-6ec2-448b-8474-f7392faec235___R.S_HL 7975 copy.jpg,Healthy,Healthy,0.9951741
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\d20981e7-70ec-495a-9921-c48de5793822___RS_GLSp 4339.JPG,Gray leaf spot,Gray leaf spot,0.5780208
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\c7c98f44-a2a9-4c74-9cff-b0d31e5e05b1___RS_GLSp 4503.JPG,Gray leaf spot,Northern leaf blight,0.7145888
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2179.JPG,Common rust,Common rust,0.9999993
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\a6180128-2b88-4e3e-8964-76186593e1ca___R.S_HL 8196 copy 2.jpg,Healthy,Healthy,0.9999969
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2416.JPG,Common rust,Common rust,0.99506783
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\7d5fedec-591d-4f0c-a759-1984b5366e1c___RS_NLB 4691.JPG,Northern leaf blight,Northern leaf blight,0.9923752
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2244.JPG,Common rust,Common rust,0.9997943
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2642.JPG,Common rust,Common rust,0.9996791
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\bc95ac1d-48c4-4a4b-a303-7441a09751d9___R.S_HL 7887 copy 2.jpg,Healthy,Healthy,0.9998734
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\2e3c83d4-fbbc-4250-a3e6-96bff8d8164a___RS_GLSp 4634.JPG,Gray leaf spot,Gray leaf spot,0.70181787
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\788e0b65-df14-4960-b819-dda874f15c03___RS_NLB 3993.JPG,Northern leaf blight,Northern leaf blight,0.9283777
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\b7214149-73ad-481e-9227-c9fe77f10477___R.S_HL 7896 copy 2.jpg,Healthy,Healthy,0.9998317
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1723.JPG,Common rust,Common rust,0.9999654
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\40016f08-81b6-462f-b6f5-f1c8cf9cc519___R.S_HL 8084 copy.jpg,Healthy,Healthy,0.9993243
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\63d75f8e-ad04-46d0-bc14-9c40a6961a80___RS_NLB 4185.JPG,Northern leaf blight,Northern leaf blight,0.9994259
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2447.JPG,Common rust,Common rust,0.999997
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\db43f70c-19bc-4913-b8ae-90c7dca09411___RS_NLB 4035.JPG,Northern leaf blight,Gray leaf spot,0.79847825
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\92d654a4-bd4d-48ed-9bdf-1750662ae4af___RS_NLB 4088.JPG,Northern leaf blight,Northern leaf blight,0.97988474
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\ae06c7e3-e283-4359-9d98-2c97a1dd3e83___R.S_HL 8062 copy.jpg,Healthy,Healthy,0.9989617
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\29f064ba-c8cd-47f7-add1-24fe1263f2db___RS_GLSp 9319.JPG,Gray leaf spot,Gray leaf spot,0.924306
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\b8b9d76a-31a4-4e15-b96c-3a22a9f8c40a___RS_NLB 4231.JPG,Northern leaf blight,Northern leaf blight,0.99698263
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2699.JPG,Common rust,Common rust,0.9991296
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\7dcf62d0-3500-4902-bfe8-e5eab0dcdcaa___RS_NLB 4119.JPG,Northern leaf blight,Gray leaf spot,0.5666289
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\4fb94993-2201-4b0f-bd6f-864b76774df8___RS_NLB 3835.JPG,Northern leaf blight,Northern leaf blight,0.93572146
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\10416d7b-f426-40c0-8661-72d359e51d15___R.S_HL 8328 copy 2.jpg,Healthy,Healthy,0.99996376
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\f5eb9c66-7174-4f62-8261-7c7520601824___RS_GLSp 9342.JPG,Gray leaf spot,Healthy,0.50464493
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2616.JPG,Common rust,Common rust,0.9997372
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\ceac7e26-3dbe-48a1-b111-3b4149cda69d___RS_GLSp 9316.JPG,Gray leaf spot,Northern leaf blight,0.93882215
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2460.JPG,Common rust,Common rust,0.99644107
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\1b2f5c24-e2af-47cf-b9c2-f2b8c4c25a3f___R.S_HL 7990 copy.jpg,Healthy,Healthy,0.99995065
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\b373622c-c171-47f4-adcb-c08ea46dad12___RS_NLB 4237.JPG,Northern leaf blight,Northern leaf blight,0.99039865
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\2e1013a9-88bb-494f-9ed5-7e8e79f9a7ca___RS_NLB 3606 copy.jpg,Northern leaf blight,Northern leaf blight,0.916816
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\e83678ff-832f-45eb-b95b-766701e6c051___RS_GLSp 9285.JPG,Gray leaf spot,Gray leaf spot,0.98006904
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\c2baa455-80e8-496b-af3a-c3237b11d28e___R.S_HL 7902 copy 3.jpg,Healthy,Healthy,0.9999546
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2741.JPG,Common rust,Common rust,0.9999671
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\919e2c3d-488e-440e-9841-60348cdb4adf___RS_GLSp 9322.JPG,Gray leaf spot,Gray leaf spot,0.957547
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\dd430eb3-4f5c-45a9-9f18-c5ee82073ec4___RS_NLB 4195.JPG,Northern leaf blight,Northern leaf blight,0.8553368
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\f6c931a8-b023-4368-bb35-0e7a62a74f48___R.S_HL 8033 copy.jpg,Healthy,Healthy,0.99995863
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\9ffb3724-b220-4e79-9883-f1d3a5141152___RS_GLSp 4688 copy.jpg,Gray leaf spot,Gray leaf spot,0.9930743
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\653472ab-cec4-4253-a85e-6d1318f1c15f___RS_NLB 4054.JPG,Northern leaf blight,Northern leaf blight,0.9978713
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\b84feecb-e6b0-44e2-a1eb-7be061ac28b3___RS_NLB 4079.JPG,Northern leaf blight,Northern leaf blight,0.99904364
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\a0fbdc10-db9a-43d3-9ef7-87e07e106ba8___R.S_HL 8167 copy.jpg,Healthy,Healthy,0.9998247
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\ca270450-47d5-49a6-8fc5-881bef1b36af___R.S_HL 8059 copy 2.jpg,Healthy,Healthy,0.99983954
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\534e86f0-1e17-4fa0-b042-b0b26ab53eb4___RS_NLB 3745.JPG,Northern leaf blight,Northern leaf blight,0.9987662
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\3a188d29-5d0c-4707-bd8d-cfa29fe88eae___R.S_HL 8283 copy 2.jpg,Healthy,Healthy,0.99983966
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2432.JPG,Common rust,Common rust,0.99869764
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\f437c2b5-6299-454b-bb73-b09ebb30cbb3___RS_NLB 3664.JPG,Northern leaf blight,Northern leaf blight,0.83057183
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\8c3c8212-cfa7-4e17-8c88-c3b5d274889f___R.S_HL 8208 copy.jpg,Healthy,Healthy,0.9734554
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\ce377cfd-9953-4754-ae9a-fb715b01e421___R.S_HL 0610 copy 2.jpg,Healthy,Healthy,0.999757
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\d9d14fdf-8f10-4023-8caf-c6ed6fd77b0f___RS_NLB 4003.JPG,Northern leaf blight,Gray leaf spot,0.45550364
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\2a4b3fe0-6858-459b-b620-cd01d0cd6333___RS_NLB 4273 copy 2.jpg,Northern leaf blight,Northern leaf blight,0.9300644
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2367.JPG,Common rust,Common rust,0.99994504
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\03297f41-30ff-42db-a482-84665adfe4da___R.S_HL 8260 copy 2.jpg,Healthy,Healthy,0.9999275
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\03000565-29dc-4d56-8132-a5d0d36a8359___R.S_HL 0602.JPG,Healthy,Healthy,0.99969995
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2457.JPG,Common rust,Common rust,0.9942993
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1577.JPG,Common rust,Common rust,0.9985464
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\f89ead10-10be-4102-82f8-35810eb4a3d1___RS_NLB 3557.JPG,Northern leaf blight,Northern leaf blight,0.99515533
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\cc668ee3-06c8-4bdd-8fbc-231ffb7e56c8___R.S_HL 8113 copy 2.jpg,Healthy,Healthy,0.999907
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\068794e5-0a99-405f-bbb9-1f954e11942d___R.S_HL 7909 copy 2.jpg,Healthy,Healthy,0.9999578
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\429213c9-31f8-49e0-bf27-5ffe7c43100d___RS_NLB 0802.JPG,Northern leaf blight,Northern leaf blight,0.99726343
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\42629a94-b48b-412e-8f60-70f915fe1beb___R.S_HL 8100 copy 2.jpg,Healthy,Healthy,0.9996445
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fa0d690b-b3ae-4ddd-b09d-ca8608233a1a___RS_GLSp 4629.JPG,Gray leaf spot,Gray leaf spot,0.7127296
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\ffa82f14-8320-469b-a621-6475c92a4bb8___RS_NLB 3649.JPG,Northern leaf blight,Northern leaf blight,0.9012973
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\40ca043f-ee3d-4327-95ee-09d7b41ebfc4___RS_NLB 3890.JPG,Northern leaf blight,Gray leaf spot,0.5735711
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\c98f6b90-ac72-4ea0-99d1-dfe5ff4d791a___RS_GLSp 4447 copy.jpg,Gray leaf spot,Gray leaf spot,0.8323636
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\515cfd7f-995c-4843-93f7-dc2c012db476___R.S_HL 7877 copy 2.jpg,Healthy,Healthy,0.999605
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\2cc203bd-1fdf-40e1-af08-5ab793586fc4___R.S_HL 7971 copy.jpg,Healthy,Healthy,0.9970048
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\3b264c40-1333-4dbe-bf91-0cc2bb183167___RS_GLSp 9365.JPG,Gray leaf spot,Gray leaf spot,0.93157196
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2507.JPG,Common rust,Common rust,0.9999907
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2538.JPG,Common rust,Common rust,0.99489754
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\1424a06a-f143-4ca4-bee1-dbbc1663b5d0___RS_GLSp 4681.JPG,Gray leaf spot,Northern leaf blight,0.8927508
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2042.JPG,Common rust,Common rust,0.9999813
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\f3102f6c-af30-41a5-80b7-fcfa86635651___R.S_HL 8324 copy 2.jpg,Healthy,Healthy,0.9999393
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\aaad7ba5-1d5a-4852-a39c-f4c4e91c7876___R.S_HL 8172 copy.jpg,Healthy,Healthy,0.99998534
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\f9e08c76-e2fe-4498-9f90-0b47ffac0e62___RS_NLB 3820.JPG,Northern leaf blight,Northern leaf blight,0.84088665
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\e955d722-98b7-4d5f-bc44-f5ca0c8bb73f___R.S_HL 0609 copy.jpg,Healthy,Healthy,0.99496055
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2377.JPG,Common rust,Common rust,0.99530715
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1769.JPG,Common rust,Common rust,0.99992526
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2351.JPG,Common rust,Common rust,0.9999914
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\eda51a46-b237-47c4-b19f-97463e2c303a___RS_GLSp 4618.JPG,Gray leaf spot,Gray leaf spot,0.9200111
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\81ddfdc4-79fe-462c-b438-d176abad814b___R.S_HL 8041 copy.jpg,Healthy,Healthy,0.9999846
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\d9987503-f4fb-4ed8-a766-dcc4bc973fb0___RS_NLB 4070.JPG,Northern leaf blight,Northern leaf blight,0.9752092
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\19b752b4-9c83-48ab-96dc-d6756644680a___RS_NLB 3581.JPG,Northern leaf blight,Northern leaf blight,0.9995409
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1947.JPG,Common rust,Common rust,0.99990547
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\30f5e05c-9d93-47d1-b3b4-9358de08d63f___RS_NLB 3863.JPG,Northern leaf blight,Northern leaf blight,0.9995864
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2559.JPG,Common rust,Common rust,0.99985456
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1811.JPG,Common rust,Common rust,0.9999604
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\f683a321-4962-4bba-ad92-002edcbc1be6___RS_NLB 4160.JPG,Northern leaf blight,Northern leaf blight,0.9783282
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\07078bdc-44b5-4103-8f13-bf889f7371c5___R.S_HL 8068 copy.jpg,Healthy,Healthy,0.9943355
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1584.JPG,Common rust,Common rust,0.9958876
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\6089948d-346f-4745-af12-4355a7ef3dea___RS_NLB 3800.JPG,Northern leaf blight,Gray leaf spot,0.8038249
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\7eeafe66-9b88-473c-a2d6-a72edb99c3fa___RS_GLSp 9364.JPG,Gray leaf spot,Gray leaf spot,0.98550063
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2676.JPG,Common rust,Common rust,0.99933785
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1885.JPG,Common rust,Common rust,0.99996066
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2394.JPG,Common rust,Common rust,0.9568746
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\90dd4436-0614-4f6b-ad3b-b8db56ce4de8___RS_NLB  4673.JPG,Northern leaf blight,Gray leaf spot,0.95177686
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\4a6aa530-32c7-49fe-a18b-a069bc49073d___R.S_HL 8304 copy.jpg,Healthy,Healthy,0.9998048
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\5cd4836c-b974-4228-b23f-1e70e8c3ea11___RS_GLSp 7328.JPG,Gray leaf spot,Gray leaf spot,0.824571
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\7ba505f3-b357-4e48-be7b-29ebaf50ef9b___R.S_HL 5526 copy 2.jpg,Healthy,Healthy,0.8327544
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2595.JPG,Common rust,Common rust,0.999923
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\a0cf00c4-33bf-4461-98b5-2115631d786b___R.S_HL 7878 copy 2.jpg,Healthy,Healthy,0.98403776
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\cf3d2eeb-aa81-4956-bd18-fa7e10e8ba25___RS_NLB 4085.JPG,Northern leaf blight,Northern leaf blight,0.95969045
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\0487da8b-736c-4310-82d2-fa8acf4aed07___R.S_HL 0646 copy 3.jpg,Healthy,Healthy,0.9944951
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\6f129430-750d-4d02-b509-1ec760ae8aaa___RS_NLB 3486 copy.jpg,Northern leaf blight,Gray leaf spot,0.6754801
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\0d0f6d14-be5c-4cb8-adb4-2cfd4d5f8540___RS_NLB 3642.JPG,Northern leaf blight,Northern leaf blight,0.49481222
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\59633534-1c22-49c5-a8c8-909653945bf7___R.S_HL 7912 copy 2.jpg,Healthy,Healthy,0.9692336
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\ca1f4a1f-eacf-4fa9-9649-32353c8cc164___RS_GLSp 7342.JPG,Gray leaf spot,Gray leaf spot,0.7069396
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\cd0b6059-1250-4230-bdd6-488f75143df6___RS_NLB 3596.JPG,Northern leaf blight,Northern leaf blight,0.97628117
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2258.JPG,Common rust,Common rust,0.99910045
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\6522ad4a-5629-4510-ac5e-bf854c42d3fb___RS_NLB 4034.JPG,Northern leaf blight,Northern leaf blight,0.98769635
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\e45eb0fd-208b-4447-b4f4-1eaafcb45596___R.S_HL 0610.JPG,Healthy,Healthy,0.9999789
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1583.JPG,Common rust,Common rust,0.99972993
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\2f20e2f8-b6ba-474b-87eb-84ba8adc3bec___R.S_HL 8131 copy 2.jpg,Healthy,Healthy,0.9998692
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\8c3fa556-9a06-4f43-bfe6-17bcfabb1d8e___RS_NLB 0809.JPG,Northern leaf blight,Northern leaf blight,0.96647924
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\9043a294-8d22-405f-add1-7e5bf1606e7a___RS_GLSp 4431 copy 2.jpg,Gray leaf spot,Gray leaf spot,0.9450036
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\206517f4-4d5f-4d16-abab-7e634fc78d0d___RS_GLSp 4412.JPG,Gray leaf spot,Northern leaf blight,0.923596
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\64ee3cf0-bfc0-4899-b444-badac4603804___RS_NLB 3923.JPG,Northern leaf blight,Northern leaf blight,0.99045825
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2629.JPG,Common rust,Common rust,0.9999949
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\9634137b-5b5b-49eb-875a-82da77a5bc54___RS_NLB 3697.JPG,Northern leaf blight,Northern leaf blight,0.9839482
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1988.JPG,Common rust,Common rust,0.9999263
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\4d96707c-8202-40cb-a6bf-c2ccce2dded0___R.S_HL 8081 copy.jpg,Healthy,Healthy,0.9998634
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\d072dd28-bda5-4666-bffc-2a70f7fbccb3___RS_GLSp 4651.JPG,Gray leaf spot,Gray leaf spot,0.8207618
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\16826b2f-b614-47ed-bd5c-198c0054723a___R.S_HL 0634 copy 2.jpg,Healthy,Healthy,0.973499
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\9ae59070-5406-477c-b806-028e83e60cb0___R.S_HL 8234 copy.jpg,Healthy,Healthy,0.9998665
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\38ee65f9-32f9-49e7-83f8-277ad34fff0d___RS_NLB 4090.JPG,Northern leaf blight,Northern leaf blight,0.997104
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1628.JPG,Common rust,Common rust,0.97505707
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\b3ff7fcd-955e-4a4d-9278-9642ac737f73___R.S_HL 0638 copy 2.jpg,Healthy,Healthy,0.9912349
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2530.JPG,Common rust,Common rust,0.9986829
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\cc76de91-e4bf-4d71-a74f-0f2a28ce7f9b___RS_NLB 4013.JPG,Northern leaf blight,Northern leaf blight,0.92824113
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\1398ccad-700f-476f-ae12-fee3ccaa1931___RS_NLB 3978.JPG,Northern leaf blight,Northern leaf blight,0.91216004
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\ac51fdb7-7110-4d50-b95f-19613eb22c15___R.S_HL 8317 copy.jpg,Healthy,Healthy,0.9994023
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\2cd74832-29e5-441a-84b1-5bc5379c16c2___R.S_HL 8111 copy.jpg,Healthy,Healthy,0.99997616
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\801ec1d8-e4e4-4682-85ff-fddfeaeae8c6___R.S_HL 0603 copy.jpg,Healthy,Healthy,0.999363
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\0995786c-d397-439a-bfeb-bd897cd431c8___RS_GLSp 9343.JPG,Gray leaf spot,Gray leaf spot,0.485865
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2198.JPG,Common rust,Common rust,0.9997731
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\bf3bdd27-ed83-4347-8ca0-4e7cf8530f80___R.S_HL 8333 copy.jpg,Healthy,Healthy,0.9987735
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\3865ed98-f848-46b1-b83e-a1f1468b75dd___R.S_HL 8171 copy 2.jpg,Healthy,Healthy,0.99984133
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\d7b57a7e-957c-4225-acdd-c923e38056f4___RS_NLB 4059.JPG,Northern leaf blight,Northern leaf blight,0.9908778
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\496510d6-dd7c-4dda-8379-d66a89b1b42f___RS_NLB 3793.JPG,Northern leaf blight,Northern leaf blight,0.94652426
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2022.JPG,Common rust,Common rust,0.99999774
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\5cbbb4b8-88cc-4d5f-907a-505a2a831b8a___RS_GLSp 4599.JPG,Gray leaf spot,Gray leaf spot,0.8532757
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\e415586a-efd4-402a-90dc-5a417ba95313___RS_GLSp 4448.JPG,Gray leaf spot,Gray leaf spot,0.9784031
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\9d3711f5-7b4a-4d56-8455-f092daf27a01___RS_GLSp 4306.JPG,Gray leaf spot,Gray leaf spot,0.9945433
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\2b1995cb-c5d5-47e7-b0cd-0ec7fa9c2996___R.S_HL 8001 copy.jpg,Healthy,Healthy,0.9999814
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2753.JPG,Common rust,Common rust,0.9999075
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2134.JPG,Common rust,Common rust,0.99993193
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1753.JPG,Common rust,Common rust,0.9999435
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\ae72095b-62bd-4930-b83c-ef4d8264f437___RS_NLB 3895.JPG,Northern leaf blight,Northern leaf blight,0.7105833
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\9103b8e5-919c-4d08-a282-25176874769c___RS_GLSp 4653.JPG,Gray leaf spot,Gray leaf spot,0.7898071
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1730.JPG,Common rust,Common rust,0.99999726
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2213.JPG,Common rust,Common rust,0.99979955
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\9cd620cd-c044-4da1-aa74-7656bd38b68b___R.S_HL 8335 copy 3.jpg,Healthy,Healthy,0.97012997
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2599.JPG,Common rust,Common rust,0.9998816
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2148.JPG,Common rust,Common rust,0.99911004
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2594.JPG,Common rust,Common rust,0.9994098
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\ad678aed-6e1c-40fd-8fef-41a44389f8fd___R.S_HL 0638 copy.jpg,Healthy,Healthy,0.9966497
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\8a3603cd-1ffa-42b5-a6d8-f9c957639a45___RS_GLSp 4677.JPG,Gray leaf spot,Common rust,0.528957
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\9bf79f09-b182-4092-b4a7-b1a00830ecfc___R.S_HL 0627 copy.jpg,Healthy,Healthy,0.9969042
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1960.JPG,Common rust,Common rust,0.9999914
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\c29e2fb4-4bc4-4025-a29f-170a3477cd11___RS_GLSp 4317.JPG,Gray leaf spot,Northern leaf blight,0.67494583
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\ad75b9e5-d8c8-4719-8bfa-61bad83ff706___RS_NLB 3565.JPG,Northern leaf blight,Northern leaf blight,0.9433759
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2036.JPG,Common rust,Common rust,0.9995097
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2342.JPG,Common rust,Common rust,0.98220795
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\ffabec8d-50da-4a43-a3c6-a16c57700cf6___R.S_HL 5547 copy 2.jpg,Healthy,Healthy,0.9998419
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\e6f7d1d1-3233-472b-bc11-597eeb02a120___R.S_HL 0596 copy 3.jpg,Healthy,Healthy,0.99973613
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\81ec1ee6-7ff1-4811-8bf0-f97870a71a84___R.S_HL 8133 copy 2.jpg,Healthy,Healthy,0.9999604
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\60e614c6-47f5-49c6-9058-00c1558a382e___R.S_HL 0646 copy 2.jpg,Healthy,Healthy,0.9963425
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\fdca88b7-bd2e-472a-b48f-7a5347d72f04___RS_NLB 3511.JPG,Northern leaf blight,Northern leaf blight,0.913137
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\43587b1b-344c-4034-9420-3875c4a1f13e___RS_NLB 4023 copy.jpg,Northern leaf blight,Northern leaf blight,0.93605554
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1883.JPG,Common rust,Common rust,0.9992543
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\66045b64-9ade-42cc-b572-2683245d6816___RS_NLB 4074.JPG,Northern leaf blight,Northern leaf blight,0.91776633
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\c826221e-a999-4509-a7ed-d62726ca6078___RS_GLSp 4332.JPG,Gray leaf spot,Gray leaf spot,0.7210928
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\d77fa827-9282-439b-8e87-5759c64cc852___RS_NLB 4285.JPG,Northern leaf blight,Northern leaf blight,0.85937625
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\e2fc31a8-6b0e-4c15-9fba-2024d2295827___RS_NLB 4229.JPG,Northern leaf blight,Northern leaf blight,0.9943961
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\cf13f3b8-d610-4b17-ace1-07a382cb620b___R.S_HL 8318 copy 3.jpg,Healthy,Healthy,0.99949574
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\95a60f50-bad5-4561-a1aa-94cf1e315083___RS_NLB 3853.JPG,Northern leaf blight,Northern leaf blight,0.9971396
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\6b6bcf84-35e5-417a-95cb-f1b7d227eab2___R.S_HL 8189 copy 3.jpg,Healthy,Healthy,0.9840538
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\3d867eaa-5cba-43af-b43f-80ca2768f697___RS_NLB 4162.JPG,Northern leaf blight,Gray leaf spot,0.5293754
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\403c1b73-5eef-412c-9913-39909a5cedaf___R.S_HL 0636 copy 2.jpg,Healthy,Healthy,0.9992223
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\eaf93f13-37be-489a-9405-b7602bf59f8a___RS_NLB 3963 copy.jpg,Northern leaf blight,Northern leaf blight,0.9430644
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1966.JPG,Common rust,Common rust,0.99997485
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\59bc56e1-31cb-410e-a8bb-4afafb0fac7d___R.S_HL 0599 copy 2.jpg,Healthy,Healthy,0.9978059
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2473.JPG,Common rust,Common rust,0.9981741
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\bb0f8a9d-1c38-46a7-b922-2bbd3ba72fba___R.S_HL 7942 copy.jpg,Healthy,Healthy,0.9999423
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\dbb7d398-3ac0-45d4-8447-829c48f9bc64___R.S_HL 8099 copy 2.jpg,Healthy,Healthy,0.99987876
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\ba462265-a5c8-4fa8-abb4-24054691eb16___RS_GLSp 3809.JPG,Gray leaf spot,Northern leaf blight,0.86441326
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\c15dae11-38d1-47c3-99e0-c579ddeb3fb3___RS_GLSp 9269.JPG,Gray leaf spot,Gray leaf spot,0.9134412
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2665.JPG,Common rust,Common rust,0.99112695
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\76ffac09-0eab-4e97-9500-3d8237910165___RS_NLB  4627.JPG,Northern leaf blight,Northern leaf blight,0.686133
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\5d8533b8-c57e-49af-aa9e-e4ab9f28f92b___RS_NLB 3691.JPG,Northern leaf blight,Northern leaf blight,0.9969266
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\837474e2-d11d-44b7-b39b-0a21442b1e04___RS_GLSp 4455.JPG,Gray leaf spot,Gray leaf spot,0.99275523
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2211.JPG,Common rust,Common rust,0.98767895
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\d6b7b823-ea04-4b02-a687-f08a4df9d374___R.S_HL 8049 copy.jpg,Healthy,Healthy,0.99999917
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2220.JPG,Common rust,Common rust,0.9990717
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\f8101df7-db23-4241-9362-a00396806364___RS_GLSp 4336.JPG,Gray leaf spot,Northern leaf blight,0.91339403
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2634.JPG,Common rust,Common rust,0.99987507
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\8d420db3-e5d3-4537-a3f9-d57263843f21___RS_NLB 4073.JPG,Northern leaf blight,Northern leaf blight,0.9805383
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\9f0a304d-0d47-4c7c-b64f-a9fff5c09c42___RS_NLB 3938.JPG,Northern leaf blight,Northern leaf blight,0.75965494
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1603.JPG,Common rust,Common rust,0.999613
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\05973221-132c-410e-bd61-06effeb07a8e___RS_NLB 3561.JPG,Northern leaf blight,Northern leaf blight,0.7342978
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1863.JPG,Common rust,Common rust,0.9962334
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2364.JPG,Common rust,Common rust,0.99993587
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\89db4731-dd79-48cc-a1d8-0ef44165e613___RS_GLSp 4564.JPG,Gray leaf spot,Gray leaf spot,0.97973377
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\839ba99e-e297-43b4-9067-69b74ab61ab7___RS_NLB 4063.JPG,Northern leaf blight,Northern leaf blight,0.95576817
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\cfa7d11e-1df2-4e9f-a90d-1feb1bbdb55d___R.S_HL 7895 copy 2.jpg,Healthy,Healthy,0.995697
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\fe301311-6c07-49d8-933a-aa10287b205e___R.S_HL 8220 copy 4.jpg,Healthy,Healthy,0.9998265
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2694.JPG,Common rust,Common rust,0.99991024
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\efcf3042-4788-4043-802d-c4bc9661fd37___R.S_HL 8301 copy.jpg,Healthy,Healthy,0.9995732
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\747bb71f-c1d5-47d7-bb5c-4dff1f1b3c9c___RS_NLB 4136.JPG,Northern leaf blight,Northern leaf blight,0.9602673
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\2b6bb6a5-3f70-48da-a968-13d840815bbb___RS_GLSp 9277.JPG,Gray leaf spot,Gray leaf spot,0.98911345
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\1383b6ed-14cc-4418-89ae-7262fc41771c___R.S_HL 7924 copy 2.jpg,Healthy,Healthy,0.9999937
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\8b9ae2cf-fcc9-44f8-889a-4868014c70b4___RS_NLB 3936.JPG,Northern leaf blight,Northern leaf blight,0.6068159
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2181.JPG,Common rust,Common rust,0.9997074
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\10b05173-08e7-4470-a581-a64898a6af88___RS_NLB 3799.JPG,Northern leaf blight,Northern leaf blight,0.6662657
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1969.JPG,Common rust,Common rust,0.9998418
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\5120c19c-8834-4b88-b406-f26c0784b74e___R.S_HL 0649 copy.jpg,Healthy,Healthy,0.99994814
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\bea16309-36c9-4d03-a8de-747e29cba604___R.S_HL 8187 copy 2.jpg,Healthy,Healthy,0.999962
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2648.JPG,Common rust,Common rust,0.9999547
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2474.JPG,Common rust,Common rust,0.9997384
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\a3e748ad-0428-4758-8fdd-8887432b9724___RS_NLB 3864.JPG,Northern leaf blight,Northern leaf blight,0.99873585
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2301.JPG,Common rust,Common rust,0.99723464
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2339.JPG,Common rust,Common rust,0.99911135
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\3e1226c4-baf1-46fa-8253-e777ca911e2f___R.S_HL 8345 copy.jpg,Healthy,Healthy,0.99993813
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2769.JPG,Common rust,Common rust,0.89832556
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\fe50a4b4-0e43-47d7-afdf-de6544ebbec9___R.S_HL 7952 copy 2.jpg,Healthy,Healthy,0.99997866
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\9e657ac4-0de6-4ba4-b10c-49a5e8a1fa4d___RS_NLB 4174.JPG,Northern leaf blight,Northern leaf blight,0.8966102
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1651.JPG,Common rust,Common rust,0.9997726
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\dbc02d2a-f3ba-47d8-b79b-744210aa69fc___RS_GLSp 4556.JPG,Gray leaf spot,Gray leaf spot,0.84776014
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\116ba4e1-7cd5-4d4e-b876-5212a41a0ab3___R.S_HL 8201 copy .jpg,Healthy,Healthy,0.99998
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\ed3a9e57-8d8c-471c-bb5a-7ef5a205bc19___RS_NLB 3711.JPG,Northern leaf blight,Northern leaf blight,0.8003682
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1971.JPG,Common rust,Common rust,0.99615026
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\a9bc0746-7cb8-4cf7-8998-27afed5648d8___RS_GLSp 7322.JPG,Gray leaf spot,Gray leaf spot,0.9718516
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\3f5a69a5-b918-4f7c-84e0-d74cc857698d___RS_NLB 4143.JPG,Northern leaf blight,Northern leaf blight,0.99609345
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2523.JPG,Common rust,Common rust,0.99994636
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\6ae624a6-83c8-4437-ba23-2a7b0460c7a4___R.S_HL 8332 copy.jpg,Healthy,Healthy,0.99744165
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2598.JPG,Common rust,Common rust,0.9999069
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\c3937239-7444-4c3d-a271-f02d5286fe5a___RS_GLSp 4485.JPG,Gray leaf spot,Gray leaf spot,0.9962
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1972.JPG,Common rust,Common rust,0.99999523
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\095ac154-37a5-4511-b4e1-4b3853f9c1cb___R.S_HL 0601 copy.jpg,Healthy,Healthy,0.9998197
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\e9c01f8e-6d45-4243-b274-6036ab3e5529___RS_NLB 0774.JPG,Northern leaf blight,Northern leaf blight,0.9402137
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\638d3d39-85a8-4e52-8a6b-e04f12fc8ce9___RS_NLB 4016.JPG,Northern leaf blight,Northern leaf blight,0.98660153
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\f4d1410d-4fb6-4d90-ac8c-c96e64374cfa___RS_GLSp 7341.JPG,Gray leaf spot,Gray leaf spot,0.83708024
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\6cc79c8d-90b8-4343-94da-98c8edc968e3___R.S_HL 5553 copy.jpg,Healthy,Healthy,0.9916208
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2033.JPG,Common rust,Common rust,0.9999846
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2407.JPG,Common rust,Common rust,0.99857473
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\1bb3a6f8-06a6-4325-946c-b6bf11eac3c1___RS_NLB 4012.JPG,Northern leaf blight,Gray leaf spot,0.60783863
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2506.JPG,Common rust,Common rust,0.99650806
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\57625493-7f34-47eb-b7d4-591b39701edc___R.S_HL 0620 copy 3.jpg,Healthy,Healthy,0.9997644
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\fdcf2bae-41a2-4c83-897f-31dd0b4e540c___R.S_HL 8225 copy 2.jpg,Healthy,Healthy,0.9999919
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\6db850c6-2b56-4acf-a283-2cd246c02bfa___RS_GLSp 4474 copy 2.jpg,Gray leaf spot,Gray leaf spot,0.82382673
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2565.JPG,Common rust,Common rust,0.9994399
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1698.JPG,Common rust,Common rust,0.998887
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\e521bbbd-09cd-4ff3-9060-60491b8128b0___RS_NLB 4005.JPG,Northern leaf blight,Northern leaf blight,0.912976
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1780.JPG,Common rust,Common rust,0.9999894
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\ee389c10-aaf2-42d5-bd7e-aabfb9acd42b___RS_NLB 4183.JPG,Northern leaf blight,Northern leaf blight,0.99953103
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2219.JPG,Common rust,Common rust,0.99977785
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\36c5fd81-d688-4013-8635-19d0fd14eeb9___RS_NLB 4666.JPG,Northern leaf blight,Northern leaf blight,0.95565164
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\dcf1eb1d-f35f-4dfe-9f07-028ddf3abbc3___R.S_HL 8293 copy 2.jpg,Healthy,Healthy,0.99998534
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1952.JPG,Common rust,Common rust,0.9950163
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\bda652f8-90f3-46c1-b5bd-bda8577761d7___R.S_HL 8149 copy 2.jpg,Healthy,Healthy,0.9998783
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\67352cb5-36c2-4548-99b6-4138741f0b08___RS_NLB 0792.JPG,Northern leaf blight,Northern leaf blight,0.62376237
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\a7a738f0-39e4-4541-828d-92c5dd42ee86___RS_NLB 3544.JPG,Northern leaf blight,Gray leaf spot,0.8240926
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\5a92ab9e-726b-4f63-9629-736509128ae0___R.S_HL 8294 copy.jpg,Healthy,Healthy,0.9999846
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2513.JPG,Common rust,Common rust,0.9940202
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\b16d14f2-4fb2-42dd-a6d1-08bbb242fccb___R.S_HL 8082 copy.jpg,Healthy,Healthy,0.9995097
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1806.JPG,Common rust,Common rust,0.99988353
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\f3944213-7339-4b29-a00a-c235b4c5a2c1___R.S_HL 5533 copy.jpg,Healthy,Healthy,0.9204658
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\c0240d98-f8f7-4e02-95a3-0723d1f61ca1___RS_GLSp 4383.JPG,Gray leaf spot,Northern leaf blight,0.7392564
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\7cb008fd-2be4-415d-bc80-912dbf959aa4___R.S_HL 7884 copy.jpg,Healthy,Healthy,0.9973224
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\636e39bc-897f-4ed7-8262-67f795eea324___RS_GLSp 9314.JPG,Gray leaf spot,Gray leaf spot,0.9525753
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1961.JPG,Common rust,Common rust,0.96505654
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\3b98ec11-30cb-47c0-89c0-05677d9f0b9d___RS_NLB 3877.JPG,Northern leaf blight,Northern leaf blight,0.6264185
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2679.JPG,Common rust,Common rust,0.99955076
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\50a8d45e-07fa-495d-8779-e07715b1c644___RS_GLSp 9358.JPG,Gray leaf spot,Gray leaf spot,0.84142977
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\74d0b40e-57a6-4467-b0d8-98b3bb0b1c16___R.S_HL 8229 copy.jpg,Healthy,Healthy,0.99990547
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\e472dfcf-e2c6-4e5b-9d93-b31921cb5f07___RS_NLB 3974.JPG,Northern leaf blight,Northern leaf blight,0.907069
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2349.JPG,Common rust,Common rust,0.9555049
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\22d215df-2361-481f-b3a7-27e3e2d5cebb___RS_NLB 3587.JPG,Northern leaf blight,Northern leaf blight,0.9899448
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\a974dc85-29d7-4441-afa1-06a47d12df6a___RS_NLB 3629.JPG,Northern leaf blight,Northern leaf blight,0.60253584
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\d3acd928-1f63-4192-8da5-8ebc84caacc2___R.S_HL 5521 copy.jpg,Healthy,Healthy,0.9797962
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\6aaf943e-fb16-4f8f-86c5-dc36724e25e5___R.S_HL 0607.JPG,Healthy,Healthy,0.98180306
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2647.JPG,Common rust,Common rust,0.9999777
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\5bed19a9-9318-4160-926f-c2c641995c1e___R.S_HL 8167 copy 2.jpg,Healthy,Healthy,0.9900967
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\c9155ccc-9e80-4d80-9926-baa5a9a8f614___RS_NLB 3635.JPG,Northern leaf blight,Northern leaf blight,0.97162026
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2603.JPG,Common rust,Common rust,0.99999654
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1766.JPG,Common rust,Common rust,0.99995697
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\3d85d62d-8a88-48eb-85a5-a283c670a453___R.S_HL 7972 copy 2.jpg,Healthy,Healthy,0.99978095
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\c2e5ab9e-e705-4f13-9c50-1243e8ea0255___RS_NLB 3555.JPG,Northern leaf blight,Northern leaf blight,0.9989384
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\ba2884c9-c118-441a-8095-9a287f8a865d___RS_NLB 3954 copy.jpg,Northern leaf blight,Northern leaf blight,0.95634687
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\959b7332-37bc-4e70-8639-77e9089892a1___R.S_HL 8322 copy.jpg,Healthy,Healthy,0.9998604
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2281.JPG,Common rust,Common rust,0.99963987
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\87b2cf78-1514-454d-b9c9-8b1296002b6a___RS_GLSp 4386.JPG,Gray leaf spot,Gray leaf spot,0.85699755
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\937bf586-316f-4916-9a51-c9addfc9ff2a___RS_NLB 3733.JPG,Northern leaf blight,Northern leaf blight,0.98765624
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2282.JPG,Common rust,Common rust,0.9893833
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2455.JPG,Common rust,Common rust,0.9999927
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\c3479d2a-e11f-4b3d-8152-930ae6e24d5c___R.S_HL 7904 copy.jpg,Healthy,Healthy,0.99716055
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\4ae99990-fe39-4a48-bdec-5ed4b1e0ea5c___R.S_HL 8316 copy 2.jpg,Healthy,Healthy,0.99979514
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2704.JPG,Common rust,Common rust,0.999992
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\6578fc09-44ed-4f4b-8ba9-d420a169e824___RS_NLB 3983.JPG,Northern leaf blight,Gray leaf spot,0.893955
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\3d30d46e-da0d-402f-97e8-e1d79cdd7a56___RS_GLSp 4638.JPG,Gray leaf spot,Gray leaf spot,0.9757169
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\c8b11ed7-bf90-4eec-aa68-45c577c30896___RS_NLB 4046 copy 2.jpg,Northern leaf blight,Northern leaf blight,0.94697183
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\9bc5549b-6193-4d07-961c-e9a3a3f639ba___RS_NLB 0788.JPG,Northern leaf blight,Northern leaf blight,0.75283456
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\13a3d820-0844-401b-87cf-9350ba351ac5___R.S_HL 7945 copy.jpg,Healthy,Healthy,0.9999186
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\9faacf6a-f638-435a-8994-f1418b332199___R.S_HL 8102 copy 2.jpg,Healthy,Healthy,0.9984353
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\cc3c5678-ed5a-43f6-bf74-5c13e9ee71ee___RS_NLB 3651.JPG,Northern leaf blight,Northern leaf blight,0.9963207
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2171.JPG,Common rust,Common rust,0.9999982
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\457d0a21-a0a5-4fb4-9502-8071991f47b2___RS_GLSp 7285.JPG,Gray leaf spot,Gray leaf spot,0.9765203
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\f7f289da-cdf0-4f65-b4f8-1afc4507a32f___R.S_HL 7880 copy 2.jpg,Healthy,Healthy,0.999585
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2231.JPG,Common rust,Common rust,0.9958145
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\c4a93031-f6c0-4a14-803d-04d2bb536718___R.S_HL 0596 copy.jpg,Healthy,Healthy,0.9961927
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\3513a96e-7db5-4a2b-9dd8-79847c92e75b___RS_NLB 4045 copy 2.jpg,Northern leaf blight,Northern leaf blight,0.57917416
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1946.JPG,Common rust,Common rust,0.9999989
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\cf700a80-b413-4b95-ad88-d916bc9ffc93___R.S_HL 7946 copy.jpg,Healthy,Healthy,0.9999819
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\1a799c4e-7e2d-4af5-8a0c-17f5319fa60a___RS_NLB 3949.JPG,Northern leaf blight,Northern leaf blight,0.9717192
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\7f79300d-eb62-4e8d-8eeb-6c6097afea01___RS_NLB 4045 copy.jpg,Northern leaf blight,Northern leaf blight,0.87212294
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2650.JPG,Common rust,Common rust,0.9998534
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\77798831-63a1-44a6-81ba-a86e673b9cf1___RS_NLB 3489.JPG,Northern leaf blight,Northern leaf blight,0.99638355
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\eafca683-d2e8-4edd-b62d-3e1a31bba4cb___R.S_HL 8267 copy 2.jpg,Healthy,Healthy,0.999995
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\019e3ef7-aae4-4fd3-b95f-b4e914df7a39___RS_NLB 4284.JPG,Northern leaf blight,Northern leaf blight,0.987329
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\16e1b4a3-65fb-405f-964e-9fa8c45e4e97___R.S_HL 5551 copy 2.jpg,Healthy,Healthy,0.5871819
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2390.JPG,Common rust,Common rust,0.9999324
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\13b33853-ad75-40ca-a00f-07281811638a___R.S_HL 8088 copy.jpg,Healthy,Healthy,0.99993
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\84f0155f-4c23-4c3a-8f67-bba9d355d608___R.S_HL 0611 copy 2.jpg,Healthy,Healthy,0.9999441
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\68a2cb35-42af-4760-ab0d-0abf06e2429a___R.S_HL 8270 copy 2.jpg,Healthy,Healthy,0.9998018
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\a94fbbbf-b604-48f0-b0c8-b0450769e9ce___RS_NLB 3830.JPG,Northern leaf blight,Gray leaf spot,0.5641178
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\3fcbe762-9784-4c0d-9e9a-30ce8a97502e___R.S_HL 0605 copy.jpg,Healthy,Healthy,0.74642
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\7a4c407a-5c68-4738-b084-f859cc0b980c___RS_GLSp 4586.JPG,Gray leaf spot,Gray leaf spot,0.979494
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\d1265756-90d5-4126-943b-4bff5b1e8277___RS_NLB 3904.JPG,Northern leaf blight,Northern leaf blight,0.99283046
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\e468a247-3cc3-414b-8d9b-efde65b2aad6___RS_NLB 3937.JPG,Northern leaf blight,Gray leaf spot,0.54984397
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2654.JPG,Common rust,Common rust,0.9999466
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2630.JPG,Common rust,Common rust,0.9999716
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1685.JPG,Common rust,Common rust,0.99881005
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\ea2d7b2e-16d9-4d40-8b88-9013fa8cd711___R.S_HL 8034 copy.jpg,Healthy,Healthy,0.99930024
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\fae01c0a-db82-4189-9193-bdad09ede531___RS_NLB 4165 copy.jpg,Northern leaf blight,Northern leaf blight,0.9307669
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1659.JPG,Common rust,Common rust,0.9996797
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1861.JPG,Common rust,Common rust,0.9999895
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\f741de14-0e76-4922-8c59-3281d55f019a___R.S_HL 5491 copy 2.jpg,Healthy,Healthy,0.99994874
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2291.JPG,Common rust,Common rust,0.9936382
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2588.JPG,Common rust,Common rust,0.99969566
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2133.JPG,Common rust,Common rust,0.9999267
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\d29534b3-d6b4-4a08-8c52-823b47c1f03e___R.S_HL 8288 copy.jpg,Healthy,Healthy,0.99657494
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\4a98a740-26d6-412e-bd44-1936c506906a___R.S_HL 8273 copy.jpg,Healthy,Healthy,0.9997236
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\9f0564fa-2184-4df2-b0b9-bec3f36294e8___R.S_HL 0651 copy 2.jpg,Healthy,Healthy,0.9944465
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\88966c55-4abc-4e8b-9b21-353186513806___R.S_HL 7953 copy 2.jpg,Healthy,Healthy,0.9998907
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\aabcc73c-187b-4fed-b318-3ad529e6ee15___R.S_HL 8244 copy.jpg,Healthy,Healthy,0.9998846
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\5c203214-e08c-4af1-9b9a-0d947c6f4741___RS_NLB 4155.JPG,Northern leaf blight,Northern leaf blight,0.67605954
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1893.JPG,Common rust,Common rust,0.9999963
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\5151362d-b000-4d78-86f3-5fa2109612a2___R.S_HL 7928 copy 2.jpg,Healthy,Healthy,0.99970156
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\e0b458e7-cea5-4d65-9b14-2aa51ba38438___RS_NLB 3857.JPG,Northern leaf blight,Northern leaf blight,0.4949622
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\f21eae95-ba11-4eeb-bd33-e003535bbaea___R.S_HL 8164 copy.jpg,Healthy,Healthy,0.9999857
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\66f145a0-f412-48e1-b597-1ce50255116b___R.S_HL 7923 copy 3.jpg,Healthy,Healthy,0.9971727
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\5ee644af-b8a1-43b3-8a61-6446260556b2___R.S_HL 7906 copy 2.jpg,Healthy,Healthy,0.99972254
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2660.JPG,Common rust,Common rust,0.99968493
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fcf73483-d84f-4278-9ef7-5a715c73c8e1___RS_GLSp 4408 copy.jpg,Gray leaf spot,Northern leaf blight,0.68401456
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1683.JPG,Common rust,Common rust,0.9993969
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\765876b6-89e3-45dc-b3f0-1879028a9a1b___R.S_HL 8129 copy.jpg,Healthy,Healthy,0.9971312
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\ed966f7f-71e9-4dc2-9689-32654a609956___RS_NLB 4046 copy.jpg,Northern leaf blight,Northern leaf blight,0.9946195
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\2950037b-0650-4dfa-8102-26c3f1ff8068___R.S_HL 8314 copy 2.jpg,Healthy,Healthy,0.9999398
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\34affa73-9797-4d0e-9cd6-916f8a6c3df3___RS_NLB 3521.JPG,Northern leaf blight,Healthy,0.93286824
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\e23676bc-f581-4cde-b33d-2960daffc210___R.S_HL 8255 copy 2.jpg,Healthy,Healthy,0.9997068
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\6eb8d5db-f4ea-4337-a765-7dbf6b568ff3___R.S_HL 8342 copy.jpg,Healthy,Healthy,0.99999523
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\4e78f502-e486-4057-b157-3065dd4abd86___R.S_HL 7993 copy 2.jpg,Healthy,Healthy,0.9995511
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\ce1af083-ea99-4aeb-9f66-c3bd1ecd6be3___RS_NLB 3485.JPG,Northern leaf blight,Northern leaf blight,0.99535155
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2203.JPG,Common rust,Common rust,0.98316807
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1956.JPG,Common rust,Common rust,0.99305797
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2217.JPG,Common rust,Common rust,0.9987262
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2483.JPG,Common rust,Common rust,0.967985
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2274.JPG,Common rust,Common rust,0.9999386
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\45b08cd4-63ef-428d-b220-3b8bb147291b___RS_NLB 3679.JPG,Northern leaf blight,Northern leaf blight,0.9633659
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\3146c9fd-b7eb-4e06-b063-6d9de01a645f___RS_NLB 4222.JPG,Northern leaf blight,Northern leaf blight,0.9897524
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1846.JPG,Common rust,Common rust,0.9999516
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\fa7637b2-bfae-41c0-ba18-b9f3d0778ec3___R.S_HL 0622 copy.jpg,Healthy,Healthy,0.99998724
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\b77d2f7f-6323-44d3-9316-f83fc75ff208___R.S_HL 7935 copy 2.jpg,Healthy,Healthy,0.99958414
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\035ce877-baf8-4ce2-b7c4-d262c577d628___RS_NLB 3934.JPG,Northern leaf blight,Northern leaf blight,0.9468129
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\ef061910-eea2-4ebb-9523-d2c0510e3031___R.S_HL 0623 copy 4.jpg,Healthy,Healthy,0.7967506
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\abd4ee1e-822b-4ff5-a8f8-2a7a27aa6584___RS_NLB 3517.JPG,Northern leaf blight,Northern leaf blight,0.8369824
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2550.JPG,Common rust,Common rust,0.9999461
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\5ac6ef38-097e-4509-9090-1c02cf2c152a___RS_GLSp 4650.JPG,Gray leaf spot,Gray leaf spot,0.9634155
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\9f07734a-54f8-4083-b99f-76f3cf329916___RS_GLSp 4625.JPG,Gray leaf spot,Gray leaf spot,0.9732887
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\50d502de-24fe-4929-bd9d-9bbe9bdb6541___R.S_HL 8052 copy 2.jpg,Healthy,Healthy,0.9985549
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\6cfd6ab1-91fa-4b07-ab39-d3fba8b174cb___R.S_HL 7889 copy.jpg,Healthy,Healthy,0.9997106
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\500c13c7-2b8e-43ea-b842-154de7cf7f50___R.S_HL 8003 copy 2.jpg,Healthy,Healthy,0.99990404
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\00a20f6f-e8bd-4453-9e25-36ea70feb626___RS_GLSp 4655.JPG,Gray leaf spot,Gray leaf spot,0.97775364
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\ca48bf18-8687-40b7-93b2-c85adf03e507___R.S_HL 5546 copy.jpg,Healthy,Healthy,0.99995506
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\a7659e27-ba53-4b85-a0dd-6a1009703831___RS_GLSp 4619.JPG,Gray leaf spot,Gray leaf spot,0.7532755
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\1e79939c-ad56-48fe-b742-bee115562523___R.S_HL 8060 copy.jpg,Healthy,Healthy,0.99996305
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\bc1f8969-f563-4300-b792-93f75d23a483___RS_GLSp 9306.JPG,Gray leaf spot,Gray leaf spot,0.9018171
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1707.JPG,Common rust,Common rust,0.99996364
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\e59d2407-e225-47d5-96a7-6cdcc3868499___RS_NLB 4100.JPG,Northern leaf blight,Northern leaf blight,0.9359223
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2348.JPG,Common rust,Common rust,0.9979042
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1764.JPG,Common rust,Common rust,0.99919254
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\33ae3386-f7ce-4c52-92d0-13d964f1cfae___R.S_HL 8331 copy.jpg,Healthy,Healthy,0.9999956
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\9aa6a76b-0385-4574-88a0-50f22b46fa3e___R.S_HL 8296 copy.jpg,Healthy,Healthy,0.99557906
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1817.JPG,Common rust,Common rust,0.99986243
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\c241d808-09a7-4775-8330-789b11e71638___R.S_HL 8190 copy 2.jpg,Healthy,Healthy,0.9999758
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2708.JPG,Common rust,Common rust,0.9994517
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\a72de5a7-34e6-484d-b4a9-b047ae3a77b2___R.S_HL 7881 copy.jpg,Healthy,Healthy,0.9999614
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2029.JPG,Common rust,Common rust,0.99996936
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\0863939a-3e44-41c2-b1a4-e603cb989993___R.S_HL 8014 copy 3.jpg,Healthy,Healthy,0.9999262
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2584.JPG,Common rust,Common rust,0.9984812
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2230.JPG,Common rust,Common rust,0.9999933
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\3164b99c-5a51-4a73-8716-8e2f6548bf8b___RS_NLB 3541.JPG,Northern leaf blight,Northern leaf blight,0.99932003
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\7925918d-440d-4a55-92c1-6d912f119994___RS_NLB 4665.JPG,Northern leaf blight,Northern leaf blight,0.95234877
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\4619bdbf-5229-4af8-9bdc-1a9b3a25c817___R.S_HL 8263 copy.jpg,Healthy,Healthy,0.99656624
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\2930a76c-f0f6-4880-8ec7-f06aaaf257d1___R.S_HL 8155 copy.jpg,Healthy,Healthy,0.9997758
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2759.JPG,Common rust,Common rust,0.99947804
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\154291fb-97ed-47ea-8323-ac0c099f54ec___R.S_HL 8041 copy 2.jpg,Healthy,Healthy,0.9998085
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1725.JPG,Common rust,Common rust,0.9999875
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\9eb04276-feae-45fe-815d-9c64ff452827___R.S_HL 8006 copy 2.jpg,Healthy,Healthy,0.9992126
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\9476e78e-6838-4592-af6c-931e899a90b1___RS_NLB 3885.JPG,Northern leaf blight,Northern leaf blight,0.8723126
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\bfd70e3b-3556-4dab-b5c2-64a6b0dfa9b5___RS_NLB 4110.JPG,Northern leaf blight,Northern leaf blight,0.92526716
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\02ab8d66-0385-43db-855a-ea5f8811ebd5___R.S_HL 7954 copy.jpg,Healthy,Healthy,0.9868484
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\6bb4c303-7e34-43a6-8eca-20a171672c31___R.S_HL 8089 copy 2.jpg,Healthy,Healthy,0.9997563
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\282df623-9898-4233-913c-ce9e88613cf7___RS_NLB 4015.JPG,Northern leaf blight,Northern leaf blight,0.8427597
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\376463e7-2d06-4f1c-a89d-48f2210031ed___RS_NLB 3971.JPG,Northern leaf blight,Northern leaf blight,0.6987958
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\3bc17d8a-7efc-469a-a0af-aa8a68e62e89___RS_GLSp 9323.JPG,Gray leaf spot,Gray leaf spot,0.9444858
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1597.JPG,Common rust,Common rust,0.9966942
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\a401fce7-28ad-4d2f-bf98-3ef87ae65ba5___RS_GLSp 4614.JPG,Gray leaf spot,Northern leaf blight,0.7263452
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1855.JPG,Common rust,Common rust,0.99991107
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1599.JPG,Common rust,Common rust,0.999899
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2218.JPG,Common rust,Common rust,0.99961394
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\afa9db47-da6a-4914-b218-5612baf34d87___RS_NLB 3501.JPG,Northern leaf blight,Gray leaf spot,0.6631959
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\2ca70127-9310-4312-8769-d9d6b43526a1___RS_GLSp 4369.JPG,Gray leaf spot,Northern leaf blight,0.5350759
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\aab5319c-f249-41e2-86c1-ce96c4c89ca0___RS_NLB 3504.JPG,Northern leaf blight,Northern leaf blight,0.9994702
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\30c4edae-2957-43ea-b522-88f0f1822fbd___R.S_HL 8209 copy 2.jpg,Healthy,Healthy,0.9999753
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\b20f5280-a83b-46c0-a611-0febe7199789___RS_NLB 4038.JPG,Northern leaf blight,Gray leaf spot,0.5733276
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\290ebdd9-0ba3-4ffc-a254-bbd5004d315b___RS_NLB 3655.JPG,Northern leaf blight,Northern leaf blight,0.9216046
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2253.JPG,Common rust,Common rust,0.99986124
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\b68a6a63-8711-4f14-a5c6-ddcd8a2cae3e___RS_NLB 3847.JPG,Northern leaf blight,Northern leaf blight,0.50674707
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\f60dfedb-02f5-4c39-b66e-9c29a58d0ae4___RS_GLSp 4417 copy.jpg,Gray leaf spot,Gray leaf spot,0.90645456
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\80a35c48-04ed-457d-a7e0-ac5179c7b53a___RS_GLSp 7292.JPG,Gray leaf spot,Gray leaf spot,0.97473496
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2270.JPG,Common rust,Common rust,0.99988914
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\9ac3c670-7ccf-46a8-870c-c075a26374b0___RS_GLSp 9344.JPG,Gray leaf spot,Healthy,0.5451811
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\092e84d4-17cf-457d-a786-4f96c5bf076a___RS_GLSp 4434 copy.jpg,Gray leaf spot,Gray leaf spot,0.831524
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1796.JPG,Common rust,Common rust,0.99999857
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2707.JPG,Common rust,Common rust,0.97860605
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\c12df11f-fd72-43ea-98b6-b42bd71b9ed9___R.S_HL 8048 copy 2.jpg,Healthy,Healthy,0.99996364
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\82cbd4a0-2616-4375-addc-ad4a83ef95ec___RS_NLB 3595.JPG,Northern leaf blight,Northern leaf blight,0.8619384
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1616.JPG,Common rust,Common rust,0.9999641
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\e9c3b693-1824-41bb-803c-2730cd06f9e5___RS_NLB 4152.JPG,Northern leaf blight,Northern leaf blight,0.93486017
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\8970b98a-13dc-4293-8795-33436cef05e7___RS_NLB 3559.JPG,Northern leaf blight,Gray leaf spot,0.813613
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\8a672c1e-45ea-4ee1-ae48-8dd1c14b0a83___RS_NLB 0826.JPG,Northern leaf blight,Northern leaf blight,0.9370484
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\d7fdbb58-9e9b-4d2e-8b50-9da0e6a8a8cf___RS_NLB 0807 copy 2.jpg,Northern leaf blight,Northern leaf blight,0.61479557
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2649.JPG,Common rust,Common rust,0.999998
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\ef2f5fe2-b4f0-40b4-8242-e521abeb812e___RS_GLSp 9288.JPG,Gray leaf spot,Gray leaf spot,0.7083713
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\0657e6c0-5a6d-4ef3-807a-4e31e57fb683___RS_GLSp 7344 copy.jpg,Gray leaf spot,Gray leaf spot,0.49409246
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\3dc975e5-3570-4dbd-b163-a6f2947fc35f___RS_GLSp 4376.JPG,Gray leaf spot,Gray leaf spot,0.9947784
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\648f5a4f-9fb5-486f-97ac-918c5804ab53___RS_GLSp 4370.JPG,Gray leaf spot,Gray leaf spot,0.9175724
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2535.JPG,Common rust,Common rust,0.99858934
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2121.JPG,Common rust,Common rust,0.9995247
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\c00aaa9f-85ca-4cb0-9734-b55296153840___RS_NLB 4081.JPG,Northern leaf blight,Northern leaf blight,0.954174
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\94ca39a0-d4df-44c6-b5cc-a38a754506e5___R.S_HL 0601 copy 3.jpg,Healthy,Healthy,0.99998224
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2062.JPG,Common rust,Common rust,0.9997546
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2336.JPG,Common rust,Common rust,0.99986875
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2319.JPG,Common rust,Common rust,0.9994742
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2682.JPG,Common rust,Common rust,0.9997577
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2135.JPG,Common rust,Common rust,0.99992955
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2072.JPG,Common rust,Common rust,0.99923694
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1765.JPG,Common rust,Common rust,0.9998945
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\ae434cb0-c0f3-4dc4-86b2-580a5d066df3___R.S_HL 8083 copy 2.jpg,Healthy,Healthy,0.99995303
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\a34e16c2-cab4-43ca-9ddb-b877ea3228b7___RS_NLB 4189.JPG,Northern leaf blight,Northern leaf blight,0.997241
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\fc6b2569-68e4-49cc-bd4b-c27e037bd3c9___RS_NLB 3806.JPG,Northern leaf blight,Northern leaf blight,0.97649866
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\fdf1ccaa-1464-4159-bb51-5cf5dfb4b3c9___R.S_HL 7902 copy 2.jpg,Healthy,Healthy,0.9999653
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\5ab44c38-1773-4f3d-bc14-cc1ccf8c88a6___RS_NLB 3512.JPG,Northern leaf blight,Northern leaf blight,0.9986337
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1564.JPG,Common rust,Common rust,0.99988914
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\d0aa3b59-046b-490d-a333-8049b87d5db9___RS_NLB 4147 copy.jpg,Northern leaf blight,Northern leaf blight,0.6659414
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\9dec2bf1-3c97-4866-a2de-871e7860d505___R.S_HL 8188 copy.jpg,Healthy,Healthy,0.9999254
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\7f350929-dc92-4c8d-a01c-ab561579bfb8___R.S_HL 7999 copy.jpg,Healthy,Healthy,0.99999785
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\d1dc8657-22f9-42f8-a467-0dc1f0e2ed2e___RS_NLB 3643.JPG,Northern leaf blight,Northern leaf blight,0.38067594
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1911.JPG,Common rust,Common rust,0.9990495
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2448.JPG,Common rust,Common rust,0.9995127
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\e55e0dbd-5b63-463f-8556-ae18f1e50f7e___R.S_HL 8222 copy 2.jpg,Healthy,Healthy,0.9999949
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\68ddbf53-4695-4c6a-b575-cc03097d46c1___RS_GLSp 4648.JPG,Gray leaf spot,Gray leaf spot,0.84564364
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2271.JPG,Common rust,Common rust,0.9990356
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\1effc5b5-4f56-4374-92c8-4acb0b506527___RS_GLSp 7314.JPG,Gray leaf spot,Gray leaf spot,0.95603424
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\b5836ce1-7bc3-425b-b311-ed8e5ea47ab9___RS_NLB 3515.JPG,Northern leaf blight,Common rust,0.7236649
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\06612347-fe75-4026-9ed0-8cb1587b60a6___R.S_HL 8130 copy.jpg,Healthy,Healthy,0.99986756
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\ab5c0be9-dfdc-41b0-8275-6f28255fd2b0___RS_NLB 3818.JPG,Northern leaf blight,Northern leaf blight,0.8958591
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\1987a377-5cf3-4b21-85af-a738b76cd0ee___RS_NLB 3886.JPG,Northern leaf blight,Northern leaf blight,0.92368275
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\e2f25942-e7f3-4ca8-8177-f029da9ca151___R.S_HL 0601.JPG,Healthy,Healthy,0.9999635
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1898.JPG,Common rust,Common rust,0.9886079
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\7f948f93-322e-4ef4-b43f-1b17d83ea983___RS_NLB 4041.JPG,Northern leaf blight,Northern leaf blight,0.9607345
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\ea5341a5-d8b9-4e96-a3c8-7785e02d0341___RS_NLB 3816.JPG,Northern leaf blight,Northern leaf blight,0.95953345
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2194.JPG,Common rust,Common rust,0.980735
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\b7d46732-7d3c-4802-8312-1cc4bea8758d___R.S_HL 7880 copy.jpg,Healthy,Healthy,0.9996413
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1970.JPG,Common rust,Common rust,0.99988246
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2094.JPG,Common rust,Common rust,0.98821485
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\0a11f9e8-7357-48c2-8550-daeae59a1e76___RS_NLB 3588.JPG,Northern leaf blight,Northern leaf blight,0.9789104
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\320c4ca9-7c67-4dcf-b588-55ff6949cded___RS_GLSp 4433.JPG,Gray leaf spot,Gray leaf spot,0.9967257
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\aa264c7c-cdcf-4a82-aafb-65e9f076feea___RS_GLSp 4327.JPG,Gray leaf spot,Gray leaf spot,0.78492403
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\3d7b536d-9c3c-4ac4-9027-1e7f3c1be0a6___R.S_HL 8215 copy.jpg,Healthy,Healthy,0.9972851
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2223.JPG,Common rust,Common rust,0.9999418
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\a1239833-7c07-4f71-b81a-44bbdf370f1a___RS_NLB 3825.JPG,Northern leaf blight,Gray leaf spot,0.6949198
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2212.JPG,Common rust,Common rust,0.99999833
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\c9272300-fc37-4b47-b09f-6a0f4e59f1bf___R.S_HL 7887 copy.jpg,Healthy,Healthy,0.99960166
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2532.JPG,Common rust,Common rust,0.9998746
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2744.JPG,Common rust,Common rust,0.9995034
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\6df99d74-ad7b-4ca2-84db-904099c7293c___RS_GLSp 4321.JPG,Gray leaf spot,Gray leaf spot,0.96084994
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2439.JPG,Common rust,Common rust,0.9996971
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\56861977-2bbb-445d-a956-95fcb62f93f7___RS_GLSp 4607 copy.jpg,Gray leaf spot,Gray leaf spot,0.9910945
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\799436ad-dbb3-4019-b150-db9e005a03a8___R.S_HL 5502 copy 2.jpg,Healthy,Healthy,0.9996309
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\9b49dc45-f159-4d0e-af91-daa06f792e8b___RS_NLB 0797.JPG,Northern leaf blight,Northern leaf blight,0.83301175
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\89edb9c3-2ae7-4a95-937f-74778fc98df0___RS_GLSp 7287.JPG,Gray leaf spot,Gray leaf spot,0.63537496
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1710.JPG,Common rust,Common rust,0.99999595
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\4832c7a2-532b-4d5e-9949-fd295d171cfa___RS_NLB 3660 copy.jpg,Northern leaf blight,Northern leaf blight,0.7132697
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\338fab57-bf99-437b-8c86-6856d2e7bcb5___R.S_HL 8059 copy.jpg,Healthy,Healthy,0.99998736
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\da98944f-f66b-4734-9d09-58dbb072eb85___RS_NLB 4033.JPG,Northern leaf blight,Northern leaf blight,0.91769695
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\f268527f-b057-44aa-b455-b62612469032___R.S_HL 5506 copy 2.jpg,Healthy,Healthy,0.9996536
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\31ed2f01-16d4-4b0f-8e51-d2b3bf960921___R.S_HL 7987 copy.jpg,Healthy,Healthy,0.9998783
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\844fe769-fd03-46df-973e-e9b0b37891d2___RS_NLB 3858.JPG,Northern leaf blight,Northern leaf blight,0.94457304
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1783.JPG,Common rust,Common rust,0.9997712
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\ab90a3d7-ab29-4efe-a5f1-b9817b09d4e2___R.S_HL 5541 copy 2.jpg,Healthy,Healthy,0.9988531
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\c7900124-4885-46fa-95b8-f335fbcd48d7___RS_GLSp 4290 copy.jpg,Gray leaf spot,Northern leaf blight,0.9700356
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\2045dd77-e896-4c78-b40b-5b93631e4e5c___RS_GLSp 9300.JPG,Gray leaf spot,Gray leaf spot,0.7769999
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\b34cc20b-1efb-4df2-bb33-6005963eaedf___RS_NLB 3683.JPG,Northern leaf blight,Gray leaf spot,0.7614561
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\9c7cf8f8-4ca0-43b6-826b-f8a9344b6a01___R.S_HL 8202 copy 2.jpg,Healthy,Healthy,0.9999447
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2669.JPG,Common rust,Common rust,0.99819106
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2255.JPG,Common rust,Common rust,0.9998647
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2044.JPG,Common rust,Common rust,0.98069215
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1871.JPG,Common rust,Common rust,0.99996436
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\11b9b0d7-738b-407b-8ca4-4c6500e6aebd___RS_NLB 3892.JPG,Northern leaf blight,Gray leaf spot,0.82513136
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\27cf1dd3-bee1-451d-b100-5a35369192d0___R.S_HL 8298 copy 2.jpg,Healthy,Healthy,0.999956
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\f19f6395-fe3b-427f-b888-49326cafe697___RS_GLSp 4329.JPG,Gray leaf spot,Gray leaf spot,0.8903333
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2673.JPG,Common rust,Common rust,0.99998105
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\a3bffb58-3110-4063-b2dd-738d38597858___RS_NLB 3961.JPG,Northern leaf blight,Northern leaf blight,0.88740814
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\3cdfb19e-a67f-4944-8b4f-89b60f9f36fb___R.S_HL 8221 copy 3.jpg,Healthy,Healthy,0.9997898
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\4d8cfcae-64e2-49e0-964f-01f6b39a23b4___RS_NLB 3631.JPG,Northern leaf blight,Northern leaf blight,0.96498024
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\6f4b40eb-6d14-4f30-9ef8-89f85bd841fd___RS_GLSp 4426.JPG,Gray leaf spot,Gray leaf spot,0.9685786
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\51261199-c0d9-43e1-a6cb-4275e6879b2e___R.S_HL 8089 copy.jpg,Healthy,Healthy,0.99922085
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\b8bffa6b-fda9-491f-a757-56b51caf5157___R.S_HL 8135 copy 2.jpg,Healthy,Healthy,0.99999225
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2758.JPG,Common rust,Common rust,0.999949
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2110.JPG,Common rust,Common rust,0.9999901
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2553.JPG,Common rust,Common rust,0.99852633
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\42488140-6d00-4240-9a9a-b9fddedbefdd___R.S_HL 8277 copy.jpg,Healthy,Healthy,0.9999888
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\0709f6e5-8e0f-47e0-af57-ab5cfcd1cb63___RS_NLB 4055.JPG,Northern leaf blight,Northern leaf blight,0.6584286
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\2c890074-1b01-46cb-9e56-8601d13ec218___RS_GLSp 4469 copy.jpg,Gray leaf spot,Gray leaf spot,0.99709
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\29f7602f-8243-4415-912d-425b21963f56___RS_NLB 4668.JPG,Northern leaf blight,Northern leaf blight,0.91717607
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\42a931c8-e325-4d2b-9cc8-14babf382689___RS_NLB 4023 copy 2.jpg,Northern leaf blight,Northern leaf blight,0.90698683
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\9e5babf1-042a-4272-aa78-c29f30041a47___R.S_HL 7910 copy 2.jpg,Healthy,Healthy,0.9998098
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2497.JPG,Common rust,Common rust,0.9992593
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\ab2c2346-36e9-46ee-8762-2444560774eb___RS_NLB 3532.JPG,Northern leaf blight,Northern leaf blight,0.907499
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\9202cb6d-a5bd-4cb7-860e-47f7299712ef___R.S_HL 8117 copy 2.jpg,Healthy,Healthy,0.99994266
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\d51a4307-22ad-4959-a7f9-c02caa7ae675___R.S_HL 8188 copy 3.jpg,Healthy,Healthy,0.9986125
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\a70d7087-a41c-4f67-a6a6-0f48c8bd4700___RS_NLB 3709.JPG,Northern leaf blight,Northern leaf blight,0.99961394
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fa551b43-43d6-4788-8450-6a78a366b5dc___RS_GLSp 4565.JPG,Gray leaf spot,Northern leaf blight,0.67152876
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\45e4a1ce-cd3d-4702-9b46-4e6fa1fd2c44___RS_NLB 3969.JPG,Northern leaf blight,Gray leaf spot,0.574483
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\83bfb1ea-c04f-4e9e-baff-396ae2b01fc3___R.S_HL 5537 copy.jpg,Healthy,Healthy,0.9758271
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\3b9cce3e-5b77-444d-957d-71e3a105d66e___RS_GLSp 7289.JPG,Gray leaf spot,Gray leaf spot,0.925481
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2411.JPG,Common rust,Common rust,0.99984896
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2666.JPG,Common rust,Common rust,0.9999809
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\e2d99dbe-c4ff-46d8-8e09-38a19f10d2b5___RS_NLB 3533 copy.jpg,Northern leaf blight,Northern leaf blight,0.7762662
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1818.JPG,Common rust,Common rust,0.99998474
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1576.JPG,Common rust,Common rust,0.99892247
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2183.JPG,Common rust,Common rust,0.99884653
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2468.JPG,Common rust,Common rust,0.9989341
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2080.JPG,Common rust,Common rust,0.9999777
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2430.JPG,Common rust,Common rust,0.9997199
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2590.JPG,Common rust,Common rust,0.9986582
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\1d45f289-7aef-4344-82f2-8a53e6fff2d6___R.S_HL 8082 copy 3.jpg,Healthy,Healthy,0.99984324
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\dda330f5-b5af-4cb0-9df3-83186cc879cc___R.S_HL 8205 copy 3.jpg,Healthy,Healthy,0.9999536
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\2206258a-43f1-481e-ace3-f55851e4c9a9___RS_NLB 4114.JPG,Northern leaf blight,Gray leaf spot,0.72353
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\1a367958-51c4-4ebf-86ae-d6a5dc7e1114___RS_NLB 0770.JPG,Northern leaf blight,Northern leaf blight,0.99971336
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\c4ebc11a-57d3-4218-9044-cfe4ea0427ef___R.S_HL 8198 copy.jpg,Healthy,Healthy,0.99966085
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1905.JPG,Common rust,Common rust,0.99993396
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\0630fcdc-33c1-478b-882f-07da48cf8002___R.S_HL 8026 copy.jpg,Healthy,Healthy,0.9912499
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2436.JPG,Common rust,Common rust,0.9990101
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2314.JPG,Common rust,Common rust,0.9999887
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\aad5f376-fca2-4eed-8174-b9bc86654441___R.S_HL 0629 copy 2.jpg,Healthy,Healthy,0.96201485
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\e22976d4-ff48-4672-ad70-e17d50b65b1c___RS_NLB 3688.JPG,Northern leaf blight,Northern leaf blight,0.9986092
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1571.JPG,Common rust,Common rust,0.986863
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\466155e6-ef86-4024-9c0a-de7ca09a1d07___R.S_HL 7986 copy.jpg,Healthy,Healthy,0.9995584
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\d0378d5a-47f6-4340-950b-18b4c2a8a598___R.S_HL 0600.JPG,Healthy,Healthy,0.99977404
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\f69b1b10-dd7f-44c0-b084-1959316e4f2a___RS_NLB 3955 copy 2.jpg,Northern leaf blight,Northern leaf blight,0.9966338
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\d7978832-fc72-492d-bfb1-73270bd24ba6___R.S_HL 7929 copy 2.jpg,Healthy,Healthy,0.9993325
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\16013375-da25-4dec-b531-131bed86f025___R.S_HL 5498 copy.jpg,Healthy,Healthy,0.9976675
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\ed1e71f3-0007-458d-bdd0-eaceeee65707___RS_NLB 4224.JPG,Northern leaf blight,Northern leaf blight,0.9930922
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\a2686a31-5b86-43b3-843b-2061d4e975a7___R.S_HL 8103 copy.jpg,Healthy,Healthy,0.99977916
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\59abb5c6-b107-4e6d-8ae7-25bcadc18b3e___RS_GLSp 4476.JPG,Gray leaf spot,Gray leaf spot,0.77780586
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1794.JPG,Common rust,Common rust,0.99993443
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\55ea99a3-17b3-4971-8159-0fa4e369c0d7___R.S_HL 8219 copy 2.jpg,Healthy,Healthy,0.9999907
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2163.JPG,Common rust,Common rust,0.99976176
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\28be876d-e1c7-4c86-8241-0077b1393ac0___R.S_HL 7972 copy.jpg,Healthy,Healthy,0.9997149
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2011.JPG,Common rust,Common rust,0.9936754
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\98f774a9-df98-45d1-903a-b0c4f6fe6b59___RS_NLB 4211.JPG,Northern leaf blight,Northern leaf blight,0.99210525
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\d55fc5ff-b6d1-4eb9-8811-6b039c38f06d___RS_GLSp 9268.JPG,Gray leaf spot,Gray leaf spot,0.9858137
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1771.JPG,Common rust,Common rust,0.99998105
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\88423d75-8546-414c-a037-3292a5194695___RS_GLSp 9298.JPG,Gray leaf spot,Gray leaf spot,0.90954214
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\7272d46b-b201-4ffc-8634-1555b87e23ff___RS_NLB 3472.JPG,Northern leaf blight,Northern leaf blight,0.96174043
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\ee886864-6980-42b0-b849-c99dce1b636c___R.S_HL 7893 copy 2.jpg,Healthy,Healthy,0.99923456
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\48d6bed0-2514-4d2a-b207-ebff452a62a8___RS_NLB 4269 copy 2.jpg,Northern leaf blight,Northern leaf blight,0.8830044
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\dbbbc6e0-d26e-443d-a962-5ee4dc35ba79___R.S_HL 0636 copy.jpg,Healthy,Healthy,0.99994874
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\6a73943d-1b22-417e-b810-2b3c65d6f320___R.S_HL 8280 copy 2.jpg,Healthy,Healthy,0.999912
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 1655.JPG,Common rust,Common rust,0.99912125
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2352.JPG,Common rust,Common rust,0.99953806
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\bec8d29c-5eb4-488b-a4fb-baef5ae7a2ec___R.S_HL 5521 copy 2.jpg,Healthy,Healthy,0.9999516
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Common_rust_\RS_Rust 2323.JPG,Common rust,Common rust,0.9999573
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___healthy\e7a4c459-f737-4efb-b13c-13c31662f1d3___R.S_HL 7976 copy.jpg,Healthy,Healthy,0.99994814
+C:\Users\SHIVANI\OneDrive\Desktop\predictive\data\plantvillage_corn\Corn_(maize)___Northern_Leaf_Blight\8f9ac1a8-f91f-4895-ba02-a2ff696fa43e___RS_NLB 3486.JPG,Northern leaf blight,Gray leaf spot,0.8262227

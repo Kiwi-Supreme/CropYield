@@ -1,0 +1,92 @@
+{
+ "trend": {
+  "Barley": 0.04336454872169912,
+  "Chickpea": 0.029065803640477603,
+  "Cotton": 0.052813968811438794,
+  "Groundnut": 0.024181312325322203,
+  "Maize": 0.042486716809987966,
+  "Mustard": 0.0428930732663532,
+  "Pearl Millet": 0.02801551636057318,
+  "Pigeonpea": 0.03373571432513323,
+  "Rice": 0.04006484123673152,
+  "Sorghum (Kharif)": 0.021787797994649038,
+  "Sorghum (Rabi)": 0.028498492706066723,
+  "Soybean": 0.042642322318446474,
+  "Wheat": 0.022988789896246715
+ },
+ "thresholds": {
+  "Barley": {
+   "poor_below": 924.9815609936325,
+   "good_above": 2012.0113592686873
+  },
+  "Chickpea": {
+   "poor_below": 614.2380189326825,
+   "good_above": 841.4182144103434
+  },
+  "Cotton": {
+   "poor_below": 182.20780429933964,
+   "good_above": 285.0718317188559
+  },
+  "Groundnut": {
+   "poor_below": 761.7685911307026,
+   "good_above": 1222.6249714819794
+  },
+  "Maize": {
+   "poor_below": 1183.521311273866,
+   "good_above": 1941.6210668936094
+  },
+  "Mustard": {
+   "poor_below": 348.70106426705047,
+   "good_above": 810.8295930818531
+  },
+  "Pearl Millet": {
+   "poor_below": 572.4282434438071,
+   "good_above": 949.1121175263853
+  },
+  "Pigeonpea": {
+   "poor_below": 454.35464839541584,
+   "good_above": 697.8612745456206
+  },
+  "Rice": {
+   "poor_below": 977.1413745671143,
+   "good_above": 1821.391729630434
+  },
+  "Sorghum (Kharif)": {
+   "poor_below": 674.3168017432557,
+   "good_above": 993.8335550816399
+  },
+  "Sorghum (Rabi)": {
+   "poor_below": 663.0998918602943,
+   "good_above": 880.8849720509245
+  },
+  "Soybean": {
+   "poor_below": 636.6203472811256,
+   "good_above": 898.8588460329872
+  },
+  "Wheat": {
+   "poor_below": 1170.0603443902603,
+   "good_above": 1964.0205340858708
+  }
+ },
+ "train_end": 2013,
+ "fcols": [
+  "rain_total",
+  "rain_early",
+  "rain_mid",
+  "rain_late",
+  "rain_days",
+  "dry_spell",
+  "tmean",
+  "tmax",
+  "tmin",
+  "heat_days",
+  "cold_days",
+  "humidity",
+  "solar",
+  "ndvi_mean",
+  "ndvi_max",
+  "ndvi_min",
+  "ndvi_peak_day",
+  "ndvi_early"
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "ndvi_table": [
+  {
+   "group": "NDVI normal/high",
+   "seasons": 620,
+   "poor_rate": 0.327,
+   "good_rate": 0.319,
+   "mean_yield_vs_trend": 1861.087
+  },
+  {
+   "group": "NDVI stress flag (z < -1)",
+   "seasons": 112,
+   "poor_rate": 0.375,
+   "good_rate": 0.295,
+   "mean_yield_vs_trend": 1719.353
+  }
+ ],
+ "ndvi_r": 0.03372836220146298,
+ "district": "Ananthapur",
+ "state": "Andhra Pradesh",
+ "loss": 0.07225000000000001,
+ "prevalence": {
+  "Healthy": 0.5,
+  "Northern leaf blight": 0.25,
+  "Common rust": 0.2,
+  "Gray leaf spot": 0.025
+ },
+ "before": [
+  0.040077116091667093,
+  0.17147726978995093,
+  0.788445614118382
+ ],
+ "after": [
+  0.05412998792976526,
+  0.20136047761798326,
+  0.7445095344522514
+ ]
+}

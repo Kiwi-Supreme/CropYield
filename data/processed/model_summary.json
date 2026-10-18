@@ -1,0 +1,135 @@
+{
+ "best": "Logistic Regression",
+ "regression": {
+  "Random Forest": {
+   "MAE (kg/ha)": 421.749,
+   "RMSE (kg/ha)": 742.157,
+   "R\u00b2": 0.698
+  },
+  "Baseline: district's past average": {
+   "MAE (kg/ha)": 414.274,
+   "RMSE (kg/ha)": 792.426,
+   "R\u00b2": 0.655
+  }
+ },
+ "sigma": 0.5217684669194487,
+ "confusion": [
+  [
+   577,
+   178,
+   61
+  ],
+  [
+   127,
+   338,
+   208
+  ],
+  [
+   17,
+   78,
+   359
+  ]
+ ],
+ "n_rows": 8394,
+ "n_train": 6451,
+ "n_test": 1943,
+ "n_districts": 47,
+ "n_states": 15,
+ "n_crops": 13,
+ "n_features": 67,
+ "baseline_accuracy": 0.6227483273288729,
+ "baseline_f1": 0.6171219715674426,
+ "confidence": [
+  {
+   "min_confidence": 0.0,
+   "share_of_cases": 1.0,
+   "accuracy": 0.6556870818322182
+  },
+  {
+   "min_confidence": 0.5,
+   "share_of_cases": 0.889861039629439,
+   "accuracy": 0.6778484673221515
+  },
+  {
+   "min_confidence": 0.6,
+   "share_of_cases": 0.6598044261451363,
+   "accuracy": 0.734789391575663
+  },
+  {
+   "min_confidence": 0.7,
+   "share_of_cases": 0.46011322696860524,
+   "accuracy": 0.7919463087248322
+  },
+  {
+   "min_confidence": 0.8,
+   "share_of_cases": 0.2892434379825013,
+   "accuracy": 0.8487544483985765
+  }
+ ],
+ "importance_groups": {
+  "Location": 0.060185405879960754,
+  "Weather": 0.1312257504430218,
+  "Satellite (NDVI)": 0.13667849473883004,
+  "Season anomaly": 0.2415830762672783,
+  "Crop": 0.9670589024804663,
+  "District's past yield": 2.3768876723878805
+ },
+ "top_features": {
+  "past_log_yield": 2.3768876723878805,
+  "crop_Cotton": 0.46073275368506544,
+  "crop_Maize": 0.14402500598012496,
+  "anom_tmean": 0.13237999166090306,
+  "crop_Rice": 0.08354517829368382,
+  "crop_Wheat": 0.08101618030144646,
+  "crop_Barley": 0.06789927548111327,
+  "crop_Pigeonpea": 0.05922875088756423
+ },
+ "accuracy_by_crop": {
+  "Soybean": 0.47863247863247865,
+  "Barley": 0.5402298850574713,
+  "Sorghum (Kharif)": 0.5733333333333334,
+  "Cotton": 0.6164383561643836,
+  "Chickpea": 0.6486486486486487,
+  "Maize": 0.6494252873563219,
+  "Pearl Millet": 0.6646341463414634,
+  "Sorghum (Rabi)": 0.6666666666666666,
+  "Pigeonpea": 0.6900584795321637,
+  "Rice": 0.7027027027027027,
+  "Mustard": 0.7124183006535948,
+  "Groundnut": 0.7134146341463414,
+  "Wheat": 0.7514792899408284
+ },
+ "per_class": {
+  "Poor": {
+   "precision": 0.8002773925104022,
+   "recall": 0.7071078431372549,
+   "f1-score": 0.7508132726089786,
+   "support": 816.0
+  },
+  "Average": {
+   "precision": 0.569023569023569,
+   "recall": 0.5022288261515602,
+   "f1-score": 0.5335438042620363,
+   "support": 673.0
+  },
+  "Good": {
+   "precision": 0.571656050955414,
+   "recall": 0.7907488986784141,
+   "f1-score": 0.6635859519408502,
+   "support": 454.0
+  },
+  "accuracy": 0.6556870818322182,
+  "macro avg": {
+   "precision": 0.6469856708297951,
+   "recall": 0.6666951893224097,
+   "f1-score": 0.6493143429372884,
+   "support": 1943.0
+  },
+  "weighted avg": {
+   "precision": 0.6667581376094226,
+   "recall": 0.6556870818322182,
+   "f1-score": 0.6551758275339284,
+   "support": 1943.0
+  }
+ }
+}
